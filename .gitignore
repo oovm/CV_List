@@ -4,3 +4,7 @@
 
 # crawler notebook
 *.nb
+
+# dump file
+*dump*
+*temp*

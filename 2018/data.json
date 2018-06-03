@@ -1,0 +1,4599 @@
+{
+	"MetaInformation":{
+		"Now":"Sun 3 Jun 2018 12:25:46",
+		"Time":2.92326079e4,
+		"Count":919
+	},
+	"Data":[
+		{
+			"Name":"Multimodal Explanations: Justifying Decisions and Pointing to the Evidence",
+			"ArXiv":"1802.08129",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08129v1.pdf"
+		},
+		{
+			"Name":"Virtual Adversarial Ladder Networks For Semi-supervised Learning",
+			"ArXiv":"1711.07476",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07476v2.pdf"
+		},
+		{
+			"Name":"3D Semantic Trajectory Reconstruction from 3D Pixel Continuum",
+			"ArXiv":"1712.01359",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01359v1.pdf"
+		},
+		{
+			"Name":"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification",
+			"ArXiv":"1711.08565",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08565v1.pdf"
+		},
+		{
+			"Name":"Dynamic Video Segmentation Network",
+			"ArXiv":"1804.00931",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00931v1.pdf"
+		},
+		{
+			"Name":"FacePoseNet: Making a Case for Landmark-Free Face Alignment",
+			"ArXiv":"1708.07517",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.07517v2.pdf"
+		},
+		{
+			"Name":"Generative Modeling using the Sliced Wasserstein Distance",
+			"ArXiv":"1803.11188",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11188v1.pdf"
+		},
+		{
+			"Name":"Conditional Probability Models for Deep Image Compression",
+			"ArXiv":"1801.04260",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04260v1.pdf"
+		},
+		{
+			"Name":"Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization",
+			"ArXiv":"1712.01034",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01034v2.pdf"
+		},
+		{
+			"Name":"Fast Feature Extraction with CNNs with Pooling Layers",
+			"ArXiv":"1805.03096",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.03096v1.pdf"
+		},
+		{
+			"Name":"Modularized Morphing of Neural Networks",
+			"ArXiv":"1701.03281",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1701.03281v1.pdf"
+		},
+		{
+			"Name":"Instance Embedding Transfer to Unsupervised Video Object Segmentation",
+			"ArXiv":"1801.00908",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.00908v2.pdf"
+		},
+		{
+			"Name":"Video Object Segmentation with Re-identification",
+			"ArXiv":"1708.00197",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.00197v1.pdf"
+		},
+		{
+			"Name":"Circulant temporal encoding for video retrieval and temporal alignment",
+			"ArXiv":"1506.02588",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1506.02588v2.pdf"
+		},
+		{
+			"Name":"Learning Descriptor Networks for 3D Shape Synthesis and Analysis",
+			"ArXiv":"1804.00586",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00586v1.pdf"
+		},
+		{
+			"Name":"Hand3D: Hand Pose Estimation using 3D Neural Network",
+			"ArXiv":"1704.02224",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.02224v1.pdf"
+		},
+		{
+			"Name":"Creatism: A deep-learning photographer capable of creating professional work",
+			"ArXiv":"1707.03491",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.03491v1.pdf"
+		},
+		{
+			"Name":"Multi-scale Location-aware Kernel Representation for Object Detection",
+			"ArXiv":"1804.00428",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00428v1.pdf"
+		},
+		{
+			"Name":"Robust Classification with Convolutional Prototype Learning",
+			"ArXiv":"1805.03438",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.03438v1.pdf"
+		},
+		{
+			"Name":"Temporal Segment Networks for Action Recognition in Videos",
+			"ArXiv":"1705.02953",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.02953v1.pdf"
+		},
+		{
+			"Name":"3D Facial Expression Reconstruction using Cascaded Regression",
+			"ArXiv":"1712.03491",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03491v1.pdf"
+		},
+		{
+			"Name":"SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval",
+			"ArXiv":"1804.01401",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01401v1.pdf"
+		},
+		{
+			"Name":"MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features",
+			"ArXiv":"1712.04837",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04837v1.pdf"
+		},
+		{
+			"Name":"A New Representation of Skeleton Sequences for 3D Action Recognition",
+			"ArXiv":"1703.03492",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.03492v3.pdf"
+		},
+		{
+			"Name":"Audio to Body Dynamics",
+			"ArXiv":"1712.09382",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.09382v1.pdf"
+		},
+		{
+			"Name":"Extreme 3D Face Reconstruction: Seeing Through Occlusions",
+			"ArXiv":"1712.05083",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05083v2.pdf"
+		},
+		{
+			"Name":"Ring loss: Convex Feature Normalization for Face Recognition",
+			"ArXiv":"1803.00130",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00130v1.pdf"
+		},
+		{
+			"Name":"Learning Structure and Strength of CNN Filters for Small Sample Size Training",
+			"ArXiv":"1803.11405",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11405v1.pdf"
+		},
+		{
+			"Name":"Multi-Agent Imitation Learning for Driving Simulation",
+			"ArXiv":"1803.01044",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.01044v1.pdf"
+		},
+		{
+			"Name":"Classification regions of deep neural networks",
+			"ArXiv":"1705.09552",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.09552v1.pdf"
+		},
+		{
+			"Name":"Wide Compression: Tensor Ring Nets",
+			"ArXiv":"1802.09052",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09052v1.pdf"
+		},
+		{
+			"Name":"Density Adaptive Point Set Registration",
+			"ArXiv":"1804.01495",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01495v1.pdf"
+		},
+		{
+			"Name":"Learning to Estimate 3D Human Pose and Shape from a Single Color Image",
+			"ArXiv":"1805.04092",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04092v1.pdf"
+		},
+		{
+			"Name":"Separating Style and Content for Generalized Style Transfer",
+			"ArXiv":"1711.06454",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06454v5.pdf"
+		},
+		{
+			"Name":"Video Representation Learning Using Discriminative Pooling",
+			"ArXiv":"1803.10628",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10628v2.pdf"
+		},
+		{
+			"Name":"VideoCapsuleNet: A Simplified Network for Action Detection",
+			"ArXiv":"1805.08162",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08162v1.pdf"
+		},
+		{
+			"Name":"Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images",
+			"ArXiv":"1712.01066",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01066v1.pdf"
+		},
+		{
+			"Name":"OATM: Occlusion Aware Template Matching by Consensus Set Maximization",
+			"ArXiv":"1804.02638",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02638v1.pdf"
+		},
+		{
+			"Name":"Incremental Learning of Object Detectors without Catastrophic Forgetting",
+			"ArXiv":"1708.06977",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.06977v1.pdf"
+		},
+		{
+			"Name":"A Twofold Siamese Network for Real-Time Object Tracking",
+			"ArXiv":"1802.08817",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08817v1.pdf"
+		},
+		{
+			"Name":"Geometric robustness of deep networks: analysis and improvement",
+			"ArXiv":"1711.09115",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09115v1.pdf"
+		},
+		{
+			"Name":"Recurrent Slice Networks for 3D Segmentation of Point Clouds",
+			"ArXiv":"1802.04402",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.04402v2.pdf"
+		},
+		{
+			"Name":"MSDNN: Multi-Scale Deep Neural Network for Salient Object Detection",
+			"ArXiv":"1801.04187",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04187v1.pdf"
+		},
+		{
+			"Name":"VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation",
+			"ArXiv":"1608.05895",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.05895v1.pdf"
+		},
+		{
+			"Name":"FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation",
+			"ArXiv":"1712.07262",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07262v2.pdf"
+		},
+		{
+			"Name":"Deep Cross-media Knowledge Transfer",
+			"ArXiv":"1803.03777",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03777v1.pdf"
+		},
+		{
+			"Name":"Disentangling 3D Pose in A Dendritic CNN for Unconstrained 2D Face Alignment",
+			"ArXiv":"1802.06713",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.06713v3.pdf"
+		},
+		{
+			"Name":"Diverse and Controllable Image Captioning with Part-of-Speech Guidance",
+			"ArXiv":"1805.12589",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.12589v1.pdf"
+		},
+		{
+			"Name":"Inertial-aided Rolling Shutter Relative Pose Estimation",
+			"ArXiv":"1712.00184",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00184v1.pdf"
+		},
+		{
+			"Name":"Learning Grimaces by Watching TV",
+			"ArXiv":"1610.02255",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1610.02255v1.pdf"
+		},
+		{
+			"Name":"VITAL: VIsual Tracking via Adversarial Learning",
+			"ArXiv":"1804.04273",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04273v1.pdf"
+		},
+		{
+			"Name":"TextureGAN: Controlling Deep Image Synthesis with Texture Patches",
+			"ArXiv":"1706.02823",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.02823v3.pdf"
+		},
+		{
+			"Name":"Real-World Repetition Estimation by Div, Grad and Curl",
+			"ArXiv":"1802.09971",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09971v1.pdf"
+		},
+		{
+			"Name":"Complex Networks on Hyperbolic Surfaces",
+			"ArXiv":"0408443",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0408443v1.pdf"
+		},
+		{
+			"Name":"Stereoscopic Neural Style Transfer",
+			"ArXiv":"1802.10591",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10591v2.pdf"
+		},
+		{
+			"Name":"TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays",
+			"ArXiv":"1801.04334",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04334v1.pdf"
+		},
+		{
+			"Name":"Dynamic Zoom-in Network for Fast Object Detection in Large Images",
+			"ArXiv":"1711.05187",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05187v2.pdf"
+		},
+		{
+			"Name":"Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal",
+			"ArXiv":"1712.02478",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02478v1.pdf"
+		},
+		{
+			"Name":"Teaching Categories to Human Learners with Visual Explanations",
+			"ArXiv":"1802.06924",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.06924v1.pdf"
+		},
+		{
+			"Name":"Knowledge Aided Consistency for Weakly Supervised Phrase Grounding",
+			"ArXiv":"1803.03879",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03879v1.pdf"
+		},
+		{
+			"Name":"Scale-recurrent Network for Deep Image Deblurring",
+			"ArXiv":"1802.01770",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.01770v1.pdf"
+		},
+		{
+			"Name":"Image Denoising via CNNs: An Adversarial Approach",
+			"ArXiv":"1708.00159",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.00159v1.pdf"
+		},
+		{
+			"Name":"TOM-Net: Learning Transparent Object Matting from a Single Image",
+			"ArXiv":"1803.04636",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04636v3.pdf"
+		},
+		{
+			"Name":"Deformable Shape Completion with Graph Convolutional Autoencoders",
+			"ArXiv":"1712.00268",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00268v4.pdf"
+		},
+		{
+			"Name":"Saccade Sequence Prediction: Beyond Static Saliency Maps",
+			"ArXiv":"1711.10959",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10959v1.pdf"
+		},
+		{
+			"Name":"Transductive Unbiased Embedding for Zero-Shot Learning",
+			"ArXiv":"1803.11320",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11320v1.pdf"
+		},
+		{
+			"Name":"Double Sparse Multi-Frame Image Super Resolution",
+			"ArXiv":"1512.00607",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1512.00607v1.pdf"
+		},
+		{
+			"Name":"Hashing as Tie-Aware Learning to Rank",
+			"ArXiv":"1705.08562",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.08562v3.pdf"
+		},
+		{
+			"Name":"ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices",
+			"ArXiv":"1707.01083",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.01083v2.pdf"
+		},
+		{
+			"Name":"From source to target and back: symmetric bi-directional adaptive GAN",
+			"ArXiv":"1705.08824",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.08824v2.pdf"
+		},
+		{
+			"Name":"Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation",
+			"ArXiv":"1711.09554",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09554v2.pdf"
+		},
+		{
+			"Name":"Incremental Boosting Convolutional Neural Network for Facial Action Unit Recognition",
+			"ArXiv":"1707.05395",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.05395v1.pdf"
+		},
+		{
+			"Name":"Reward Learning from Narrated Demonstrations",
+			"ArXiv":"1804.10692",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.10692v1.pdf"
+		},
+		{
+			"Name":"Two can play this Game: Visual Dialog with Discriminative Question Generation and Answering",
+			"ArXiv":"1803.11186",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11186v1.pdf"
+		},
+		{
+			"Name":"Deep Texture Manifold for Ground Terrain Recognition",
+			"ArXiv":"1803.10896",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10896v2.pdf"
+		},
+		{
+			"Name":"A General Pipeline for 3D Detection of Vehicles",
+			"ArXiv":"1803.00387",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00387v1.pdf"
+		},
+		{
+			"Name":"Analysis and Modeling of 3D Indoor Scenes",
+			"ArXiv":"1706.09577",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.09577v1.pdf"
+		},
+		{
+			"Name":"Conditional Image-to-Image Translation",
+			"ArXiv":"1805.00251",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00251v1.pdf"
+		},
+		{
+			"Name":"EPINET: A Fully-Convolutional Neural Network Using Epipolar Geometry for Depth from Light Field Images",
+			"ArXiv":"1804.02379",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02379v1.pdf"
+		},
+		{
+			"Name":"Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation",
+			"ArXiv":"1802.08948",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08948v2.pdf"
+		},
+		{
+			"Name":"DR2-Net: Deep Residual Reconstruction Network for Image Compressive Sensing",
+			"ArXiv":"1702.05743",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.05743v4.pdf"
+		},
+		{
+			"Name":"Deformation Aware Image Compression",
+			"ArXiv":"1804.04593",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04593v1.pdf"
+		},
+		{
+			"Name":"Projecting light beams with 3D waveguide arrays",
+			"ArXiv":"1608.08157",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.08157v1.pdf"
+		},
+		{
+			"Name":"Low-Latency Video Semantic Segmentation",
+			"ArXiv":"1804.00389",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00389v1.pdf"
+		},
+		{
+			"Name":"Supervised Hashing based on Energy Minimization",
+			"ArXiv":"1712.00573",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00573v1.pdf"
+		},
+		{
+			"Name":"Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene",
+			"ArXiv":"1712.01812",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01812v2.pdf"
+		},
+		{
+			"Name":"Columbia MVSO Image Sentiment Dataset",
+			"ArXiv":"1611.04455",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.04455v1.pdf"
+		},
+		{
+			"Name":"Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks",
+			"ArXiv":"1711.06753",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06753v4.pdf"
+		},
+		{
+			"Name":"Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs",
+			"ArXiv":"1708.00953",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.00953v1.pdf"
+		},
+		{
+			"Name":"PixelLink: Detecting Scene Text via Instance Segmentation",
+			"ArXiv":"1801.01315",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01315v1.pdf"
+		},
+		{
+			"Name":"Deep joint rain and haze removal from single images",
+			"ArXiv":"1801.06769",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.06769v1.pdf"
+		},
+		{
+			"Name":"Motion Segmentation by Exploiting Complementary Geometric Models",
+			"ArXiv":"1804.02142",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02142v1.pdf"
+		},
+		{
+			"Name":"Tracking hidden objects with a single-photon camera",
+			"ArXiv":"1503.01699",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1503.01699v1.pdf"
+		},
+		{
+			"Name":"From Lifestyle Vlogs to Everyday Interactions",
+			"ArXiv":"1712.02310",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02310v1.pdf"
+		},
+		{
+			"Name":"On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach",
+			"ArXiv":"1803.09719",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09719v3.pdf"
+		},
+		{
+			"Name":"Improving Landmark Localization with Semi-Supervised Learning",
+			"ArXiv":"1709.01591",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.01591v6.pdf"
+		},
+		{
+			"Name":"Compressed Video Action Recognition",
+			"ArXiv":"1712.00636",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00636v2.pdf"
+		},
+		{
+			"Name":"Synthesizing Training Data for Object Detection in Indoor Scenes",
+			"ArXiv":"1702.07836",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.07836v2.pdf"
+		},
+		{
+			"Name":"Direct Variational Perspective Shape from Shading with Cartesian Depth Parametrisation",
+			"ArXiv":"1505.06163",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.06163v2.pdf"
+		},
+		{
+			"Name":"Single-Shot Object Detection with Enriched Semantics",
+			"ArXiv":"1712.00433",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00433v2.pdf"
+		},
+		{
+			"Name":"Learning by Asking Questions",
+			"ArXiv":"1712.01238",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01238v1.pdf"
+		},
+		{
+			"Name":"Deep Learning under Privileged Information Using Heteroscedastic Dropout",
+			"ArXiv":"1805.11614",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11614v1.pdf"
+		},
+		{
+			"Name":"Interpolation-Based QR Decomposition in MIMO-OFDM Systems",
+			"ArXiv":"0908.3463",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0908.3463v3.pdf"
+		},
+		{
+			"Name":"Egocentric Basketball Motion Planning from a Single First-Person Image",
+			"ArXiv":"1803.01413",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.01413v1.pdf"
+		},
+		{
+			"Name":"Deep Self-taught Learning for Remote Sensing Image Classification",
+			"ArXiv":"1710.07096",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.07096v2.pdf"
+		},
+		{
+			"Name":"Neural Map: Structured Memory for Deep Reinforcement Learning",
+			"ArXiv":"1702.08360",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.08360v1.pdf"
+		},
+		{
+			"Name":"Understanding Convolution for Semantic Segmentation",
+			"ArXiv":"1702.08502",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.08502v2.pdf"
+		},
+		{
+			"Name":"3D Registration of Curves and Surfaces using Local Differential Information",
+			"ArXiv":"1804.00637",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00637v1.pdf"
+		},
+		{
+			"Name":"Video Acceleration Magnification",
+			"ArXiv":"1704.04186",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.04186v2.pdf"
+		},
+		{
+			"Name":"Towards Universal Representation for Unseen Action Recognition",
+			"ArXiv":"1803.08460",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08460v1.pdf"
+		},
+		{
+			"Name":"Glimpse Clouds: Human Activity Recognition from Unstructured Feature Points",
+			"ArXiv":"1802.07898",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07898v2.pdf"
+		},
+		{
+			"Name":"End-To-End Face Detection and Recognition",
+			"ArXiv":"1703.10818",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.10818v1.pdf"
+		},
+		{
+			"Name":"Virtual to Real Reinforcement Learning for Autonomous Driving",
+			"ArXiv":"1704.03952",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.03952v4.pdf"
+		},
+		{
+			"Name":"Geometry-Aware Learning of Maps for Camera Localization",
+			"ArXiv":"1712.03342",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03342v3.pdf"
+		},
+		{
+			"Name":"BlockDrop: Dynamic Inference Paths in Residual Networks",
+			"ArXiv":"1711.08393",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08393v3.pdf"
+		},
+		{
+			"Name":"Dense-Captioning Events in Videos",
+			"ArXiv":"1705.00754",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.00754v1.pdf"
+		},
+		{
+			"Name":"Single-Shot Refinement Neural Network for Object Detection",
+			"ArXiv":"1711.06897",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06897v3.pdf"
+		},
+		{
+			"Name":"Deep Face Feature for Face Alignment",
+			"ArXiv":"1708.02721",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.02721v2.pdf"
+		},
+		{
+			"Name":"4DFAB: A Large Scale 4D Facial Expression Database for Biometric Applications",
+			"ArXiv":"1712.01443",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01443v1.pdf"
+		},
+		{
+			"Name":"Improved Fusion of Visual and Language Representations by Dense Symmetric Co-Attention for Visual Question Answering",
+			"ArXiv":"1804.00775",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00775v1.pdf"
+		},
+		{
+			"Name":"Boundary Layer of Boltzmann Equation in 2D Convex Domains",
+			"ArXiv":"1805.07771",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.07771v1.pdf"
+		},
+		{
+			"Name":"End-to-end weakly-supervised semantic alignment",
+			"ArXiv":"1712.06861",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06861v2.pdf"
+		},
+		{
+			"Name":"Smart, Sparse Contours to Represent and Edit Images",
+			"ArXiv":"1712.08232",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.08232v2.pdf"
+		},
+		{
+			"Name":"Adversarial Neural Machine Translation",
+			"ArXiv":"1704.06933",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.06933v3.pdf"
+		},
+		{
+			"Name":"SO-Net: Self-Organizing Network for Point Cloud Analysis",
+			"ArXiv":"1803.04249",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04249v4.pdf"
+		},
+		{
+			"Name":"NestedNet: Learning Nested Sparse Structures in Deep Neural Networks",
+			"ArXiv":"1712.03781",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03781v2.pdf"
+		},
+		{
+			"Name":"Natural and Effective Obfuscation by Head Inpainting",
+			"ArXiv":"1711.09001",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09001v5.pdf"
+		},
+		{
+			"Name":"Radially-Distorted Conjugate Translations",
+			"ArXiv":"1711.11339",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11339v2.pdf"
+		},
+		{
+			"Name":"Category-Specific Object Reconstruction from a Single Image",
+			"ArXiv":"1411.6069",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1411.6069v2.pdf"
+		},
+		{
+			"Name":"Multispectral Image Intrinsic Decomposition via Low Rank Constraint",
+			"ArXiv":"1802.08793",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08793v1.pdf"
+		},
+		{
+			"Name":"A Rolling PID Control Approach and its Applications",
+			"ArXiv":"1604.02527",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.02527v1.pdf"
+		},
+		{
+			"Name":"Logo Synthesis and Manipulation with Clustered Generative Adversarial Networks",
+			"ArXiv":"1712.04407",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04407v1.pdf"
+		},
+		{
+			"Name":"Adversarial Feature Augmentation for Unsupervised Domain Adaptation",
+			"ArXiv":"1711.08561",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08561v2.pdf"
+		},
+		{
+			"Name":"Image to Image Translation for Domain Adaptation",
+			"ArXiv":"1712.00479",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00479v1.pdf"
+		},
+		{
+			"Name":"xUnit: Learning a Spatial Activation Function for Efficient Image Restoration",
+			"ArXiv":"1711.06445",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06445v3.pdf"
+		},
+		{
+			"Name":"Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence",
+			"ArXiv":"1709.09384",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.09384v1.pdf"
+		},
+		{
+			"Name":"Finding an ARMA(p,q) model given its spectral density or its correlogram",
+			"ArXiv":"1406.4062",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1406.4062v2.pdf"
+		},
+		{
+			"Name":"RotationNet: Joint Object Categorization and Pose Estimation Using Multiviews from Unsupervised Viewpoints",
+			"ArXiv":"1603.06208",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1603.06208v4.pdf"
+		},
+		{
+			"Name":"Named Entity Sequence Classification",
+			"ArXiv":"1712.02316",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02316v1.pdf"
+		},
+		{
+			"Name":"A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping",
+			"ArXiv":"1709.04595",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.04595v3.pdf"
+		},
+		{
+			"Name":"Multimodal Visual Concept Learning with Weakly Supervised Techniques",
+			"ArXiv":"1712.00796",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00796v3.pdf"
+		},
+		{
+			"Name":"CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise",
+			"ArXiv":"1711.07131",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07131v2.pdf"
+		},
+		{
+			"Name":"Relation Networks for Object Detection",
+			"ArXiv":"1711.11575",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11575v1.pdf"
+		},
+		{
+			"Name":"Densely Connected Pyramid Dehazing Network",
+			"ArXiv":"1803.08396",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08396v1.pdf"
+		},
+		{
+			"Name":"Evolutionary Generative Adversarial Networks",
+			"ArXiv":"1803.00657",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00657v1.pdf"
+		},
+		{
+			"Name":"Learning Face Age Progression: A Pyramid Architecture of GANs",
+			"ArXiv":"1711.10352",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10352v1.pdf"
+		},
+		{
+			"Name":"Robustness and Generalization for Metric Learning",
+			"ArXiv":"1209.1086",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1209.1086v3.pdf"
+		},
+		{
+			"Name":"A Perceptual Measure for Deep Single Image Camera Calibration",
+			"ArXiv":"1712.01259",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01259v3.pdf"
+		},
+		{
+			"Name":"Leveraging Unlabeled Data for Crowd Counting by Learning to Rank",
+			"ArXiv":"1803.03095",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03095v1.pdf"
+		},
+		{
+			"Name":"Seq-NMS for Video Object Detection",
+			"ArXiv":"1602.08465",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1602.08465v3.pdf"
+		},
+		{
+			"Name":"Grid Loss: Detecting Occluded Faces",
+			"ArXiv":"1609.00129",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.00129v1.pdf"
+		},
+		{
+			"Name":"Tell Me Where to Look: Guided Attention Inference Network",
+			"ArXiv":"1802.10171",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10171v1.pdf"
+		},
+		{
+			"Name":"Dual Skipping Networks",
+			"ArXiv":"1710.10386",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.10386v3.pdf"
+		},
+		{
+			"Name":"Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery",
+			"ArXiv":"1711.09082",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09082v1.pdf"
+		},
+		{
+			"Name":"Boosting Adversarial Attacks with Momentum",
+			"ArXiv":"1710.06081",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.06081v3.pdf"
+		},
+		{
+			"Name":"UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition",
+			"ArXiv":"1712.04695",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04695v1.pdf"
+		},
+		{
+			"Name":"Edit Probability for Scene Text Recognition",
+			"ArXiv":"1805.03384",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.03384v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Domain Adaptation with Similarity Learning",
+			"ArXiv":"1711.08995",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08995v2.pdf"
+		},
+		{
+			"Name":"PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection",
+			"ArXiv":"1803.08636",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08636v1.pdf"
+		},
+		{
+			"Name":"A Perceptual Aesthetics Measure for 3D Shapes",
+			"ArXiv":"1608.04953",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.04953v1.pdf"
+		},
+		{
+			"Name":"Quantization of Fully Convolutional Networks for Accurate Biomedical Image Segmentation",
+			"ArXiv":"1803.04907",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04907v1.pdf"
+		},
+		{
+			"Name":"CRRN: Multi-Scale Guided Concurrent Reflection Removal Network",
+			"ArXiv":"1805.11802",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11802v1.pdf"
+		},
+		{
+			"Name":"A Weighted Sparse Sampling and Smoothing Frame Transition Approach for Semantic Fast-Forward First-Person Videos",
+			"ArXiv":"1802.08722",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08722v3.pdf"
+		},
+		{
+			"Name":"Learning to Compose Neural Networks for Question Answering",
+			"ArXiv":"1601.01705",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1601.01705v4.pdf"
+		},
+		{
+			"Name":"Learning to Adapt Structured Output Space for Semantic Segmentation",
+			"ArXiv":"1802.10349",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10349v1.pdf"
+		},
+		{
+			"Name":"SEE: Towards Semi-Supervised End-to-End Scene Text Recognition",
+			"ArXiv":"1712.05404",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05404v1.pdf"
+		},
+		{
+			"Name":"The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks",
+			"ArXiv":"1705.08790",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.08790v2.pdf"
+		},
+		{
+			"Name":"Learning to Sketch with Shortcut Cycle Consistency",
+			"ArXiv":"1805.00247",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00247v1.pdf"
+		},
+		{
+			"Name":"Dynamic Few-Shot Visual Learning without Forgetting",
+			"ArXiv":"1804.09458",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09458v1.pdf"
+		},
+		{
+			"Name":"Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks",
+			"ArXiv":"1801.09335",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.09335v1.pdf"
+		},
+		{
+			"Name":"Proxy Templates for Inverse Compositional Photometric Bundle Adjustment",
+			"ArXiv":"1704.06967",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.06967v1.pdf"
+		},
+		{
+			"Name":"Offline reconstruction of missing vehicle trajectory data from 3D LIDAR",
+			"ArXiv":"1709.05446",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.05446v1.pdf"
+		},
+		{
+			"Name":"Image Super-Resolution via Dual-State Recurrent Networks",
+			"ArXiv":"1805.02704",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.02704v1.pdf"
+		},
+		{
+			"Name":"Probabilistic Plant Modeling via Multi-View Image-to-Image Translation",
+			"ArXiv":"1804.09404",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09404v1.pdf"
+		},
+		{
+			"Name":"People, Penguins and Petri Dishes: Adapting Object Counting Models To New Visual Domains And Object Types Without Forgetting",
+			"ArXiv":"1711.05586",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05586v1.pdf"
+		},
+		{
+			"Name":"Where Do You Think You're Going?: Inferring Beliefs about Dynamics from Behavior",
+			"ArXiv":"1805.08010",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08010v1.pdf"
+		},
+		{
+			"Name":"Gamifying Video Object Segmentation",
+			"ArXiv":"1601.00825",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1601.00825v1.pdf"
+		},
+		{
+			"Name":"AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation",
+			"ArXiv":"1803.01599",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.01599v1.pdf"
+		},
+		{
+			"Name":"3D Menagerie: Modeling the 3D shape and pose of animals",
+			"ArXiv":"1611.07700",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.07700v2.pdf"
+		},
+		{
+			"Name":"Orientation-boosted Voxel Nets for 3D Object Recognition",
+			"ArXiv":"1604.03351",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.03351v2.pdf"
+		},
+		{
+			"Name":"Creating Capsule Wardrobes from Fashion Images",
+			"ArXiv":"1712.02662",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02662v2.pdf"
+		},
+		{
+			"Name":"Fully-Convolutional Siamese Networks for Object Tracking",
+			"ArXiv":"1606.09549",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1606.09549v2.pdf"
+		},
+		{
+			"Name":"An Iterative Co-Saliency Framework for RGBD Images",
+			"ArXiv":"1711.01371",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.01371v1.pdf"
+		},
+		{
+			"Name":"Embodied Question Answering",
+			"ArXiv":"1711.11543",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11543v2.pdf"
+		},
+		{
+			"Name":"Revisiting knowledge transfer for training object class detectors",
+			"ArXiv":"1708.06128",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.06128v3.pdf"
+		},
+		{
+			"Name":"Image Generation from Scene Graphs",
+			"ArXiv":"1804.01622",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01622v1.pdf"
+		},
+		{
+			"Name":"Tagging like Humans: Diverse and Distinct Image Annotation",
+			"ArXiv":"1804.00113",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00113v1.pdf"
+		},
+		{
+			"Name":"Optimization Methods for Convolutional Sparse Coding",
+			"ArXiv":"1406.2407",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1406.2407v1.pdf"
+		},
+		{
+			"Name":"DOTA: A Large-scale Dataset for Object Detection in Aerial Images",
+			"ArXiv":"1711.10398",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10398v2.pdf"
+		},
+		{
+			"Name":"Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination",
+			"ArXiv":"1703.09913",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.09913v2.pdf"
+		},
+		{
+			"Name":"A Brief Survey of Deep Reinforcement Learning",
+			"ArXiv":"1708.05866",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.05866v2.pdf"
+		},
+		{
+			"Name":"Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning",
+			"ArXiv":"1804.01681",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01681v1.pdf"
+		},
+		{
+			"Name":"DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor",
+			"ArXiv":"1804.06023",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06023v1.pdf"
+		},
+		{
+			"Name":"Detect-and-Track: Efficient Pose Estimation in Videos",
+			"ArXiv":"1712.09184",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.09184v2.pdf"
+		},
+		{
+			"Name":"LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image",
+			"ArXiv":"1803.08999",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08999v1.pdf"
+		},
+		{
+			"Name":"Exploring Nearest Neighbor Approaches for Image Captioning",
+			"ArXiv":"1505.04467",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.04467v1.pdf"
+		},
+		{
+			"Name":"Efficient and Deep Person Re-Identification using Multi-Level Similarity",
+			"ArXiv":"1803.11353",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11353v2.pdf"
+		},
+		{
+			"Name":"Visual Question Reasoning on General Dependency Tree",
+			"ArXiv":"1804.00105",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00105v1.pdf"
+		},
+		{
+			"Name":"Joint convolutional neural pyramid for depth map super-resolution",
+			"ArXiv":"1801.00968",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.00968v1.pdf"
+		},
+		{
+			"Name":"Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+			"ArXiv":"1712.05877",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05877v1.pdf"
+		},
+		{
+			"Name":"FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors",
+			"ArXiv":"1711.10703",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10703v1.pdf"
+		},
+		{
+			"Name":"Motion-Appearance Co-Memory Networks for Video Question Answering",
+			"ArXiv":"1803.10906",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10906v1.pdf"
+		},
+		{
+			"Name":"Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs",
+			"ArXiv":"1712.02765",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02765v2.pdf"
+		},
+		{
+			"Name":"DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation",
+			"ArXiv":"1712.06679",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06679v2.pdf"
+		},
+		{
+			"Name":"Deep Extreme Cut: From Extreme Points to Object Segmentation",
+			"ArXiv":"1711.09081",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09081v2.pdf"
+		},
+		{
+			"Name":"Differential Attention for Visual Question Answering",
+			"ArXiv":"1804.00298",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00298v2.pdf"
+		},
+		{
+			"Name":"ActionFlowNet: Learning Motion Representation for Action Recognition",
+			"ArXiv":"1612.03052",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.03052v3.pdf"
+		},
+		{
+			"Name":"Large-scale Distance Metric Learning with Uncertainty",
+			"ArXiv":"1805.10384",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.10384v1.pdf"
+		},
+		{
+			"Name":"Low Resolution Face Recognition in the Wild",
+			"ArXiv":"1805.11529",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11529v1.pdf"
+		},
+		{
+			"Name":"Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation",
+			"ArXiv":"1705.01314",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.01314v4.pdf"
+		},
+		{
+			"Name":"ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans",
+			"ArXiv":"1712.10215",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.10215v2.pdf"
+		},
+		{
+			"Name":"Discovering Blind Spots in Reinforcement Learning",
+			"ArXiv":"1805.08966",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08966v1.pdf"
+		},
+		{
+			"Name":"Optimizing Filter Size in Convolutional Neural Networks for Facial Action Unit Recognition",
+			"ArXiv":"1707.08630",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.08630v2.pdf"
+		},
+		{
+			"Name":"Low-Shot Learning from Imaginary Data",
+			"ArXiv":"1801.05401",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.05401v2.pdf"
+		},
+		{
+			"Name":"A Quantum Imager for Intensity Correlated Photons",
+			"ArXiv":"0807.3025",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0807.3025v3.pdf"
+		},
+		{
+			"Name":"Learning distributions of shape trajectories from longitudinal datasets: a hierarchical model on a manifold of diffeomorphisms",
+			"ArXiv":"1803.10119",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10119v1.pdf"
+		},
+		{
+			"Name":"Learning 3D Segment Descriptors for Place Recognition",
+			"ArXiv":"1804.09270",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09270v1.pdf"
+		},
+		{
+			"Name":"Recalling Holistic Information for Semantic Segmentation",
+			"ArXiv":"1611.08061",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.08061v1.pdf"
+		},
+		{
+			"Name":"Context Encoding for Semantic Segmentation",
+			"ArXiv":"1803.08904",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08904v1.pdf"
+		},
+		{
+			"Name":"Distributable Consistent Multi-Object Matching",
+			"ArXiv":"1611.07191",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.07191v3.pdf"
+		},
+		{
+			"Name":"Left-Right Comparative Recurrent Model for Stereo Matching",
+			"ArXiv":"1804.00796",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00796v1.pdf"
+		},
+		{
+			"Name":"Dual Attention Networks for Multimodal Reasoning and Matching",
+			"ArXiv":"1611.00471",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.00471v2.pdf"
+		},
+		{
+			"Name":"Multiple graph regularized protein domain ranking",
+			"ArXiv":"1208.3779",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1208.3779v3.pdf"
+		},
+		{
+			"Name":"CNN-aware Binary Map for General Semantic Segmentation",
+			"ArXiv":"1609.09220",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.09220v1.pdf"
+		},
+		{
+			"Name":"MovieGraphs: Towards Understanding Human-Centric Situations from Videos",
+			"ArXiv":"1712.06761",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06761v2.pdf"
+		},
+		{
+			"Name":"A3T: Adversarially Augmented Adversarial Training",
+			"ArXiv":"1801.04055",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04055v1.pdf"
+		},
+		{
+			"Name":"LDMNet: Low Dimensional Manifold Regularized Neural Networks",
+			"ArXiv":"1711.06246",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06246v1.pdf"
+		},
+		{
+			"Name":"Learning Compressible 360° Video Isomers",
+			"ArXiv":"1712.04083",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04083v1.pdf"
+		},
+		{
+			"Name":"Viewpoint Invariant Object Detector",
+			"ArXiv":"1212.0030",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1212.0030v1.pdf"
+		},
+		{
+			"Name":"Information transfer with small-amplitude signals",
+			"ArXiv":"1008.2066",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1008.2066v1.pdf"
+		},
+		{
+			"Name":"3D Semantic Segmentation with Submanifold Sparse Convolutional Networks",
+			"ArXiv":"1711.10275",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10275v1.pdf"
+		},
+		{
+			"Name":"Regularizing Deep Networks by Modeling and Predicting Label Structure",
+			"ArXiv":"1804.02009",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02009v1.pdf"
+		},
+		{
+			"Name":"Online Learning with Pairwise Loss Functions",
+			"ArXiv":"1301.5332",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1301.5332v1.pdf"
+		},
+		{
+			"Name":"Sparse Photometric 3D Face Reconstruction Guided by Morphable Models",
+			"ArXiv":"1711.10870",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10870v1.pdf"
+		},
+		{
+			"Name":"SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis",
+			"ArXiv":"1801.02753",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.02753v2.pdf"
+		},
+		{
+			"Name":"Pose Guided Person Image Generation",
+			"ArXiv":"1705.09368",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.09368v6.pdf"
+		},
+		{
+			"Name":"DVQA: Understanding Data Visualizations via Question Answering",
+			"ArXiv":"1801.08163",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.08163v2.pdf"
+		},
+		{
+			"Name":"Transferable Semi-supervised Semantic Segmentation",
+			"ArXiv":"1711.06828",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06828v2.pdf"
+		},
+		{
+			"Name":"DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection under Partial Occlusion",
+			"ArXiv":"1709.04577",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.04577v2.pdf"
+		},
+		{
+			"Name":"Weakly Supervised Action Localization by Sparse Temporal Pooling Network",
+			"ArXiv":"1712.05080",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05080v2.pdf"
+		},
+		{
+			"Name":"The Smart Sampling Kalman Filter with Symmetric Samples",
+			"ArXiv":"1506.03254",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1506.03254v1.pdf"
+		},
+		{
+			"Name":"Context Embedding Networks",
+			"ArXiv":"1710.01691",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.01691v3.pdf"
+		},
+		{
+			"Name":"Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic",
+			"ArXiv":"1611.02247",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.02247v3.pdf"
+		},
+		{
+			"Name":"Fusing Hierarchical Convolutional Features for Human Body Segmentation and Clothing Fashion Classification",
+			"ArXiv":"1803.03415",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03415v2.pdf"
+		},
+		{
+			"Name":"Grounding Referring Expressions in Images by Variational Context",
+			"ArXiv":"1712.01892",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01892v2.pdf"
+		},
+		{
+			"Name":"GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose",
+			"ArXiv":"1803.02276",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.02276v2.pdf"
+		},
+		{
+			"Name":"NISP: Pruning Networks using Neuron Importance Score Propagation",
+			"ArXiv":"1711.05908",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05908v3.pdf"
+		},
+		{
+			"Name":"Deep Canonically Correlated LSTMs",
+			"ArXiv":"1801.05407",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.05407v1.pdf"
+		},
+		{
+			"Name":"Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration",
+			"ArXiv":"1805.03857",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.03857v2.pdf"
+		},
+		{
+			"Name":"Image Retargetability",
+			"ArXiv":"1802.04392",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.04392v1.pdf"
+		},
+		{
+			"Name":"Adversarially Learned One-Class Classifier for Novelty Detection",
+			"ArXiv":"1802.09088",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09088v2.pdf"
+		},
+		{
+			"Name":"Few-Shot Image Recognition by Predicting Parameters from Activations",
+			"ArXiv":"1706.03466",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.03466v3.pdf"
+		},
+		{
+			"Name":"Eye In-Painting with Exemplar Generative Adversarial Networks",
+			"ArXiv":"1712.03999",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03999v1.pdf"
+		},
+		{
+			"Name":"Self-supervised Multi-level Face Model Learning for Monocular Reconstruction at over 250 Hz",
+			"ArXiv":"1712.02859",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02859v2.pdf"
+		},
+		{
+			"Name":"A New Constructive Method to Optimize Neural Network Architecture and Generalization",
+			"ArXiv":"1302.0324",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1302.0324v1.pdf"
+		},
+		{
+			"Name":"Learning to Estimate Pose by Watching Videos",
+			"ArXiv":"1704.04081",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.04081v1.pdf"
+		},
+		{
+			"Name":"Multiple Instance Curriculum Learning for Weakly Supervised Object Detection",
+			"ArXiv":"1711.09191",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09191v1.pdf"
+		},
+		{
+			"Name":"A Variational U-Net for Conditional Appearance and Shape Generation",
+			"ArXiv":"1804.04694",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04694v1.pdf"
+		},
+		{
+			"Name":"ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing",
+			"ArXiv":"1803.01837",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.01837v1.pdf"
+		},
+		{
+			"Name":"Illuminant Spectra-based Source Separation Using Flash Photography",
+			"ArXiv":"1704.05564",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.05564v2.pdf"
+		},
+		{
+			"Name":"CondenseNet: An Efficient DenseNet using Learned Group Convolutions",
+			"ArXiv":"1711.09224",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09224v1.pdf"
+		},
+		{
+			"Name":"Learning Markov Clustering Networks for Scene Text Detection",
+			"ArXiv":"1805.08365",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08365v1.pdf"
+		},
+		{
+			"Name":"A Neural Multi-sequence Alignment TeCHnique (NeuMATCH)",
+			"ArXiv":"1803.00057",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00057v2.pdf"
+		},
+		{
+			"Name":"The Quantum Mechanical Arrows of Time",
+			"ArXiv":"1301.2844",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1301.2844v2.pdf"
+		},
+		{
+			"Name":"Deep Regionlets for Object Detection",
+			"ArXiv":"1712.02408",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02408v2.pdf"
+		},
+		{
+			"Name":"Recurrent Instance Segmentation",
+			"ArXiv":"1511.08250",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.08250v3.pdf"
+		},
+		{
+			"Name":"Decorrelated Batch Normalization",
+			"ArXiv":"1804.08450",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08450v1.pdf"
+		},
+		{
+			"Name":"Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering",
+			"ArXiv":"1712.00377",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00377v1.pdf"
+		},
+		{
+			"Name":"Online Deep Metric Learning",
+			"ArXiv":"1805.05510",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.05510v1.pdf"
+		},
+		{
+			"Name":"Quaternion Based Camera Pose Estimation From Matched Feature Points",
+			"ArXiv":"1704.02672",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.02672v2.pdf"
+		},
+		{
+			"Name":"It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data",
+			"ArXiv":"1805.06880",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.06880v1.pdf"
+		},
+		{
+			"Name":"Attentional Push: Augmenting Salience with Shared Attention Modeling",
+			"ArXiv":"1609.00072",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.00072v1.pdf"
+		},
+		{
+			"Name":"Learning Deep Sketch Abstraction",
+			"ArXiv":"1804.04804",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04804v1.pdf"
+		},
+		{
+			"Name":"Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy",
+			"ArXiv":"1804.05197",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05197v1.pdf"
+		},
+		{
+			"Name":"Salient Object Detection: A Benchmark",
+			"ArXiv":"1501.02741",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1501.02741v2.pdf"
+		},
+		{
+			"Name":"Convolutional Sequence to Sequence Model for Human Dynamics",
+			"ArXiv":"1805.00655",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00655v1.pdf"
+		},
+		{
+			"Name":"Efficient Video Object Segmentation via Network Modulation",
+			"ArXiv":"1802.01218",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.01218v1.pdf"
+		},
+		{
+			"Name":"Learning Time\/Memory-Efficient Deep Architectures with Budgeted Super Networks",
+			"ArXiv":"1706.00046",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.00046v4.pdf"
+		},
+		{
+			"Name":"Deeply-Supervised Recurrent Convolutional Neural Network for Saliency Detection",
+			"ArXiv":"1608.05177",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.05177v1.pdf"
+		},
+		{
+			"Name":"Learning to Localize Sound Source in Visual Scenes",
+			"ArXiv":"1803.03849",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03849v1.pdf"
+		},
+		{
+			"Name":"Robust Depth Estimation from Auto Bracketed Images",
+			"ArXiv":"1803.07702",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.07702v1.pdf"
+		},
+		{
+			"Name":"Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser",
+			"ArXiv":"1712.02976",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02976v2.pdf"
+		},
+		{
+			"Name":"A Convolutional Neural Network Approach for Half-Pel Interpolation in Video Coding",
+			"ArXiv":"1703.03502",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.03502v1.pdf"
+		},
+		{
+			"Name":"Video Captioning via Hierarchical Reinforcement Learning",
+			"ArXiv":"1711.11135",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11135v3.pdf"
+		},
+		{
+			"Name":"Compare and Contrast: Learning Prominent Visual Differences",
+			"ArXiv":"1804.00112",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00112v2.pdf"
+		},
+		{
+			"Name":"Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks",
+			"ArXiv":"1804.06039",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06039v1.pdf"
+		},
+		{
+			"Name":"Disentanglement by Dissipative Open System Dynamics",
+			"ArXiv":"0312099",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0312099v1.pdf"
+		},
+		{
+			"Name":"Semi-Dense 3D Semantic Mapping from Monocular SLAM",
+			"ArXiv":"1611.04144",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.04144v1.pdf"
+		},
+		{
+			"Name":"Video Based Reconstruction of 3D People Models",
+			"ArXiv":"1803.04758",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04758v3.pdf"
+		},
+		{
+			"Name":"Aperture Supervision for Monocular Depth Estimation",
+			"ArXiv":"1711.07933",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07933v2.pdf"
+		},
+		{
+			"Name":"Dense 3D Regression for Hand Pose Estimation",
+			"ArXiv":"1711.08996",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08996v1.pdf"
+		},
+		{
+			"Name":"Improving Object Counting with Heatmap Regulation",
+			"ArXiv":"1803.05494",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05494v2.pdf"
+		},
+		{
+			"Name":"Why (and When and How) Contrastive Divergence Works",
+			"ArXiv":"1405.0602",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1405.0602v1.pdf"
+		},
+		{
+			"Name":"Pyramid Person Matching Network for Person Re-identification",
+			"ArXiv":"1803.02547",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.02547v1.pdf"
+		},
+		{
+			"Name":"Where To Look: Focus Regions for Visual Question Answering",
+			"ArXiv":"1511.07394",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.07394v2.pdf"
+		},
+		{
+			"Name":"Deep MR to CT Synthesis using Unpaired Data",
+			"ArXiv":"1708.01155",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.01155v1.pdf"
+		},
+		{
+			"Name":"Nonlinear 3D Face Morphable Model",
+			"ArXiv":"1804.03786",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.03786v1.pdf"
+		},
+		{
+			"Name":"Sliced Wasserstein Distance for Learning Gaussian Mixture Models",
+			"ArXiv":"1711.05376",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05376v2.pdf"
+		},
+		{
+			"Name":"A Compromise Principle in Deep Monocular Depth Estimation",
+			"ArXiv":"1708.08267",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.08267v1.pdf"
+		},
+		{
+			"Name":"Learning Strict Identity Mappings in Deep Residual Networks",
+			"ArXiv":"1804.01661",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01661v3.pdf"
+		},
+		{
+			"Name":"Monocular Depth Estimation by Learning from Heterogeneous Datasets",
+			"ArXiv":"1803.08018",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08018v1.pdf"
+		},
+		{
+			"Name":"Beyond Holistic Object Recognition: Enriching Image Understanding with Part States",
+			"ArXiv":"1612.07310",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.07310v1.pdf"
+		},
+		{
+			"Name":"Direction-aware Spatial Context Features for Shadow Detection",
+			"ArXiv":"1712.04142",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04142v2.pdf"
+		},
+		{
+			"Name":"Second-order Temporal Pooling for Action Recognition",
+			"ArXiv":"1704.06925",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.06925v1.pdf"
+		},
+		{
+			"Name":"Revisiting Deep Intrinsic Image Decompositions",
+			"ArXiv":"1701.02965",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1701.02965v5.pdf"
+		},
+		{
+			"Name":"Learning Depth from Monocular Videos using Direct Methods",
+			"ArXiv":"1712.00175",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00175v1.pdf"
+		},
+		{
+			"Name":"Attend and Interact: Higher-Order Object Interactions for Video Understanding",
+			"ArXiv":"1711.06330",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06330v2.pdf"
+		},
+		{
+			"Name":"Learning for Disparity Estimation through Feature Constancy",
+			"ArXiv":"1712.01039",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01039v2.pdf"
+		},
+		{
+			"Name":"Multi-Person Tracking by Multicut and Deep Matching",
+			"ArXiv":"1608.05404",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.05404v1.pdf"
+		},
+		{
+			"Name":"Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+			"ArXiv":"1705.07115",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.07115v3.pdf"
+		},
+		{
+			"Name":"Hierarchical Neural Story Generation",
+			"ArXiv":"1805.04833",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04833v1.pdf"
+		},
+		{
+			"Name":"AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation",
+			"ArXiv":"1802.05384",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.05384v2.pdf"
+		},
+		{
+			"Name":"Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation",
+			"ArXiv":"1805.04497",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04497v1.pdf"
+		},
+		{
+			"Name":"PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation",
+			"ArXiv":"1711.10871",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10871v1.pdf"
+		},
+		{
+			"Name":"Memory Based Online Learning of Deep Representations from Video Streams",
+			"ArXiv":"1711.07368",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07368v1.pdf"
+		},
+		{
+			"Name":"VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection",
+			"ArXiv":"1711.06396",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06396v1.pdf"
+		},
+		{
+			"Name":"Stereoscopic Cinema",
+			"ArXiv":"1506.06001",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1506.06001v1.pdf"
+		},
+		{
+			"Name":"Face Super-Resolution Through Wasserstein GANs",
+			"ArXiv":"1705.02438",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.02438v1.pdf"
+		},
+		{
+			"Name":"Learning to Find Good Correspondences",
+			"ArXiv":"1711.05971",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05971v2.pdf"
+		},
+		{
+			"Name":"Revisiting stochastic off-policy action-value gradients",
+			"ArXiv":"1703.02102",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.02102v2.pdf"
+		},
+		{
+			"Name":"Decoupling Dynamics and Reward for Transfer Learning",
+			"ArXiv":"1804.10689",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.10689v2.pdf"
+		},
+		{
+			"Name":"Interpretable Deep Convolutional Neural Networks via Meta-learning",
+			"ArXiv":"1802.00560",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.00560v1.pdf"
+		},
+		{
+			"Name":"CNN based Learning using Reflection and Retinex Models for Intrinsic Image Decomposition",
+			"ArXiv":"1712.01056",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01056v2.pdf"
+		},
+		{
+			"Name":"Look at Boundary: A Boundary-Aware Face Alignment Algorithm",
+			"ArXiv":"1805.10483",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.10483v1.pdf"
+		},
+		{
+			"Name":"Language-Based Image Editing with Recurrent Attentive Models",
+			"ArXiv":"1711.06288",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06288v1.pdf"
+		},
+		{
+			"Name":"Determination of intrinsic spin Hall angle in Pt",
+			"ArXiv":"1410.1601",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1410.1601v1.pdf"
+		},
+		{
+			"Name":"Context-Aware Trajectory Prediction",
+			"ArXiv":"1705.02503",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.02503v1.pdf"
+		},
+		{
+			"Name":"Efficient Optimization for Rank-based Loss Functions",
+			"ArXiv":"1604.08269",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.08269v3.pdf"
+		},
+		{
+			"Name":"End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching",
+			"ArXiv":"1802.07869",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07869v2.pdf"
+		},
+		{
+			"Name":"Regularizing RNNs for Caption Generation by Reconstructing The Past with The Present",
+			"ArXiv":"1803.11439",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11439v2.pdf"
+		},
+		{
+			"Name":"Conditional Time Series Forecasting with Convolutional Neural Networks",
+			"ArXiv":"1703.04691",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.04691v3.pdf"
+		},
+		{
+			"Name":"Art of singular vectors and universal adversarial perturbations",
+			"ArXiv":"1709.03582",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.03582v2.pdf"
+		},
+		{
+			"Name":"Submanifolds of Hermitian symmetric spaces",
+			"ArXiv":"1410.3556",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1410.3556v1.pdf"
+		},
+		{
+			"Name":"Online Adaptation of Convolutional Neural Networks for Video Object Segmentation",
+			"ArXiv":"1706.09364",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.09364v2.pdf"
+		},
+		{
+			"Name":"Deep Depth Completion of a Single RGB-D Image",
+			"ArXiv":"1803.09326",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09326v2.pdf"
+		},
+		{
+			"Name":"Generating Video Descriptions with Topic Guidance",
+			"ArXiv":"1708.09666",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.09666v2.pdf"
+		},
+		{
+			"Name":"AU Scale Structures in Extra-planar Gas",
+			"ArXiv":"0409359",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0409359v1.pdf"
+		},
+		{
+			"Name":"Structured Uncertainty Prediction Networks",
+			"ArXiv":"1802.07079",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07079v2.pdf"
+		},
+		{
+			"Name":"Simple Does It: Weakly Supervised Instance and Semantic Segmentation",
+			"ArXiv":"1603.07485",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1603.07485v2.pdf"
+		},
+		{
+			"Name":"Deep Layer Aggregation",
+			"ArXiv":"1707.06484",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.06484v2.pdf"
+		},
+		{
+			"Name":"Boosting Domain Adaptation by Discovering Latent Domains",
+			"ArXiv":"1805.01386",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.01386v1.pdf"
+		},
+		{
+			"Name":"Real-world Anomaly Detection in Surveillance Videos",
+			"ArXiv":"1801.04264",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04264v2.pdf"
+		},
+		{
+			"Name":"Learning to Segment Every Thing",
+			"ArXiv":"1711.10370",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10370v2.pdf"
+		},
+		{
+			"Name":"Mixture Proportion Estimation via Kernel Embedding of Distributions",
+			"ArXiv":"1603.02501",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1603.02501v2.pdf"
+		},
+		{
+			"Name":"Towards a Mathematical Understanding of the Difficulty in Learning with Feedforward Neural Networks",
+			"ArXiv":"1611.05827",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.05827v3.pdf"
+		},
+		{
+			"Name":"Graph Edge Convolutional Neural Networks for Skeleton Based Action Recognition",
+			"ArXiv":"1805.06184",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.06184v2.pdf"
+		},
+		{
+			"Name":"Depth Structure Preserving Scene Image Generation",
+			"ArXiv":"1706.00212",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.00212v2.pdf"
+		},
+		{
+			"Name":"Geometric Multi-Model Fitting with a Convex Relaxation Algorithm",
+			"ArXiv":"1706.01553",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.01553v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction",
+			"ArXiv":"1803.03893",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03893v3.pdf"
+		},
+		{
+			"Name":"Why robots? A survey on the roles and benefits of social robots in the therapy of children with autism",
+			"ArXiv":"1311.0352",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1311.0352v1.pdf"
+		},
+		{
+			"Name":"Deep Reinforcement Learning for Image Hashing",
+			"ArXiv":"1802.02904",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.02904v1.pdf"
+		},
+		{
+			"Name":"Fast and Accurate Single Image Super-Resolution via Information Distillation Network",
+			"ArXiv":"1803.09454",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09454v1.pdf"
+		},
+		{
+			"Name":"Recurrent Pixel Embedding for Instance Grouping",
+			"ArXiv":"1712.08273",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.08273v1.pdf"
+		},
+		{
+			"Name":"Quantum disentanglers",
+			"ArXiv":"0006047",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0006047v1.pdf"
+		},
+		{
+			"Name":"Detail-Preserving Pooling in Deep Networks",
+			"ArXiv":"1804.04076",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04076v1.pdf"
+		},
+		{
+			"Name":"Perceptual Studies for Foveated Light Field Displays",
+			"ArXiv":"1708.06034",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.06034v1.pdf"
+		},
+		{
+			"Name":"Human Semantic Parsing for Person Re-identification",
+			"ArXiv":"1804.00216",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00216v1.pdf"
+		},
+		{
+			"Name":"Deep Photometric Stereo on a Sunny Day",
+			"ArXiv":"1803.10850",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10850v2.pdf"
+		},
+		{
+			"Name":"Efficient, sparse representation of manifold distance matrices for classical scaling",
+			"ArXiv":"1705.10887",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.10887v2.pdf"
+		},
+		{
+			"Name":"Learning a Discriminative Feature Network for Semantic Segmentation",
+			"ArXiv":"1804.09337",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09337v1.pdf"
+		},
+		{
+			"Name":"An Unsupervised Learning Model for Deformable Medical Image Registration",
+			"ArXiv":"1802.02604",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.02604v3.pdf"
+		},
+		{
+			"Name":"Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation",
+			"ArXiv":"1803.11029",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11029v1.pdf"
+		},
+		{
+			"Name":"AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks",
+			"ArXiv":"1711.10485",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10485v1.pdf"
+		},
+		{
+			"Name":"Effective Object Tracking in Unstructured Crowd Scenes",
+			"ArXiv":"1510.00479",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1510.00479v1.pdf"
+		},
+		{
+			"Name":"ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes",
+			"ArXiv":"1711.11556",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11556v2.pdf"
+		},
+		{
+			"Name":"Every Smile is Unique: Landmark-Guided Diverse Smile Generation",
+			"ArXiv":"1802.01873",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.01873v3.pdf"
+		},
+		{
+			"Name":"A Framework for the Volumetric Integration of Depth Images",
+			"ArXiv":"1410.0925",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1410.0925v3.pdf"
+		},
+		{
+			"Name":"Person Re-identification: Past, Present and Future",
+			"ArXiv":"1610.02984",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1610.02984v1.pdf"
+		},
+		{
+			"Name":"DeepMVS: Learning Multi-view Stereopsis",
+			"ArXiv":"1804.00650",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00650v1.pdf"
+		},
+		{
+			"Name":"Divide, Denoise, and Defend against Adversarial Attacks",
+			"ArXiv":"1802.06806",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.06806v1.pdf"
+		},
+		{
+			"Name":"VisDA: The Visual Domain Adaptation Challenge",
+			"ArXiv":"1710.06924",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.06924v2.pdf"
+		},
+		{
+			"Name":"Temperature chaos is a non-local effect",
+			"ArXiv":"1605.03025",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1605.03025v2.pdf"
+		},
+		{
+			"Name":"Toric Hypersymplectic Quotients",
+			"ArXiv":"0404547",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0404547v2.pdf"
+		},
+		{
+			"Name":"Bayesian Nonparametric Kernel-Learning",
+			"ArXiv":"1506.08776",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1506.08776v2.pdf"
+		},
+		{
+			"Name":"The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+			"ArXiv":"1801.03924",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.03924v2.pdf"
+		},
+		{
+			"Name":"GANerated Hands for Real-time 3D Hand Tracking from Monocular RGB",
+			"ArXiv":"1712.01057",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01057v1.pdf"
+		},
+		{
+			"Name":"Fine-Grained Visual Categorization via Multi-stage Metric Learning",
+			"ArXiv":"1402.0453",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1402.0453v2.pdf"
+		},
+		{
+			"Name":"Learning Rotation for Kernel Correlation Filter",
+			"ArXiv":"1708.03698",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.03698v1.pdf"
+		},
+		{
+			"Name":"Deep Haar Scattering Networks",
+			"ArXiv":"1509.09187",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1509.09187v1.pdf"
+		},
+		{
+			"Name":"Efficient Subpixel Refinement with Symbolic Linear Predictors",
+			"ArXiv":"1804.10750",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.10750v1.pdf"
+		},
+		{
+			"Name":"Optimizing Video Object Detection via a Scale-Time Lattice",
+			"ArXiv":"1804.05472",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05472v1.pdf"
+		},
+		{
+			"Name":"Diffusion Adaptation over Networks",
+			"ArXiv":"1205.4220",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1205.4220v2.pdf"
+		},
+		{
+			"Name":"DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)",
+			"ArXiv":"1802.06454",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.06454v1.pdf"
+		},
+		{
+			"Name":"Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification",
+			"ArXiv":"1803.09786",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09786v1.pdf"
+		},
+		{
+			"Name":"Occlusion-Model Guided Anti-Occlusion Depth Estimation in Light Field",
+			"ArXiv":"1608.04187",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.04187v2.pdf"
+		},
+		{
+			"Name":"CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF",
+			"ArXiv":"1803.09453",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09453v1.pdf"
+		},
+		{
+			"Name":"Learning a Complete Image Indexing Pipeline",
+			"ArXiv":"1712.04480",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04480v1.pdf"
+		},
+		{
+			"Name":"Attentive Generative Adversarial Network for Raindrop Removal from a Single Image",
+			"ArXiv":"1711.10098",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10098v4.pdf"
+		},
+		{
+			"Name":"Towards High Performance Video Object Detection",
+			"ArXiv":"1711.11577",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11577v1.pdf"
+		},
+		{
+			"Name":"APE-GAN: Adversarial Perturbation Elimination with GAN",
+			"ArXiv":"1707.05474",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.05474v3.pdf"
+		},
+		{
+			"Name":"Learning Rich Features for Image Manipulation Detection",
+			"ArXiv":"1805.04953",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04953v1.pdf"
+		},
+		{
+			"Name":"Direct White Matter Bundle Segmentation using Stacked U-Nets",
+			"ArXiv":"1703.02036",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.02036v1.pdf"
+		},
+		{
+			"Name":"Synthesizing Images of Humans in Unseen Poses",
+			"ArXiv":"1804.07739",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.07739v1.pdf"
+		},
+		{
+			"Name":"First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations",
+			"ArXiv":"1704.02463",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.02463v2.pdf"
+		},
+		{
+			"Name":"On the Optimal Solution of Weighted Nuclear Norm Minimization",
+			"ArXiv":"1405.6012",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1405.6012v1.pdf"
+		},
+		{
+			"Name":"Analysis of Hand Segmentation in the Wild",
+			"ArXiv":"1803.03317",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03317v2.pdf"
+		},
+		{
+			"Name":"PhaseNet for Video Frame Interpolation",
+			"ArXiv":"1804.00884",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00884v1.pdf"
+		},
+		{
+			"Name":"Fingertip Detection: A Fast Method with Natural Hand",
+			"ArXiv":"1212.0134",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1212.0134v1.pdf"
+		},
+		{
+			"Name":"Frank-Wolfe with Subsampling Oracle",
+			"ArXiv":"1803.07348",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.07348v1.pdf"
+		},
+		{
+			"Name":"Iterative Visual Reasoning Beyond Convolutions",
+			"ArXiv":"1803.11189",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11189v1.pdf"
+		},
+		{
+			"Name":"Maximum Classifier Discrepancy for Unsupervised Domain Adaptation",
+			"ArXiv":"1712.02560",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02560v4.pdf"
+		},
+		{
+			"Name":"Adversarial Discriminative Domain Adaptation",
+			"ArXiv":"1702.05464",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.05464v1.pdf"
+		},
+		{
+			"Name":"Correlation Tracking via Joint Discrimination and Reliability Learning",
+			"ArXiv":"1804.08965",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08965v1.pdf"
+		},
+		{
+			"Name":"Neural Baby Talk",
+			"ArXiv":"1803.09845",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09845v1.pdf"
+		},
+		{
+			"Name":"Lose The Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion",
+			"ArXiv":"1711.10388",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10388v2.pdf"
+		},
+		{
+			"Name":"Rotation Averaging and Strong Duality",
+			"ArXiv":"1705.01362",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.01362v2.pdf"
+		},
+		{
+			"Name":"Multimodal Memory Modelling for Video Captioning",
+			"ArXiv":"1611.05592",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.05592v1.pdf"
+		},
+		{
+			"Name":"Shape from Shading through Shape Evolution",
+			"ArXiv":"1712.02961",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02961v1.pdf"
+		},
+		{
+			"Name":"Good Features to Correlate for Visual Tracking",
+			"ArXiv":"1704.06326",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.06326v2.pdf"
+		},
+		{
+			"Name":"Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments",
+			"ArXiv":"1711.07280",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07280v3.pdf"
+		},
+		{
+			"Name":"Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift",
+			"ArXiv":"1803.00830",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00830v1.pdf"
+		},
+		{
+			"Name":"CosFace: Large Margin Cosine Loss for Deep Face Recognition",
+			"ArXiv":"1801.09414",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.09414v2.pdf"
+		},
+		{
+			"Name":"Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition",
+			"ArXiv":"1712.05134",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05134v2.pdf"
+		},
+		{
+			"Name":"Deflecting Adversarial Attacks with Pixel Deflection",
+			"ArXiv":"1801.08926",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.08926v3.pdf"
+		},
+		{
+			"Name":"Deep Regression Forests for Age Estimation",
+			"ArXiv":"1712.07195",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07195v1.pdf"
+		},
+		{
+			"Name":"Adaptive Quantization for Deep Neural Network",
+			"ArXiv":"1712.01048",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01048v1.pdf"
+		},
+		{
+			"Name":"Learning to Predict Indoor Illumination from a Single Image",
+			"ArXiv":"1704.00090",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.00090v3.pdf"
+		},
+		{
+			"Name":"Graph-based denoising for time-varying point clouds",
+			"ArXiv":"1511.04902",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.04902v1.pdf"
+		},
+		{
+			"Name":"The Open World of Micro-Videos",
+			"ArXiv":"1603.09439",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1603.09439v2.pdf"
+		},
+		{
+			"Name":"Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination",
+			"ArXiv":"1805.01978",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.01978v1.pdf"
+		},
+		{
+			"Name":"Boosting Self-Supervised Learning via Knowledge Transfer",
+			"ArXiv":"1805.00385",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00385v1.pdf"
+		},
+		{
+			"Name":"Automatic Face Image Quality Prediction",
+			"ArXiv":"1706.09887",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.09887v1.pdf"
+		},
+		{
+			"Name":"Geometry-aware Deep Network for Single-Image Novel View Synthesis",
+			"ArXiv":"1804.06008",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06008v1.pdf"
+		},
+		{
+			"Name":"FOTS: Fast Oriented Text Spotting with a Unified Network",
+			"ArXiv":"1801.01671",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01671v2.pdf"
+		},
+		{
+			"Name":"End-to-end Recovery of Human Shape and Pose",
+			"ArXiv":"1712.06584",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06584v1.pdf"
+		},
+		{
+			"Name":"Style Aggregated Network for Facial Landmark Detection",
+			"ArXiv":"1803.04108",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04108v4.pdf"
+		},
+		{
+			"Name":"Large cliques in graphs with high chromatic number",
+			"ArXiv":"1107.2630",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1107.2630v1.pdf"
+		},
+		{
+			"Name":"Fast and Robust Determination of Power System Emergency Control Actions",
+			"ArXiv":"1707.07105",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.07105v1.pdf"
+		},
+		{
+			"Name":"Convexified Convolutional Neural Networks",
+			"ArXiv":"1609.01000",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.01000v1.pdf"
+		},
+		{
+			"Name":"Beyond Gröbner Bases: Basis Selection for Minimal Solvers",
+			"ArXiv":"1803.04360",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04360v1.pdf"
+		},
+		{
+			"Name":"Finding beans in burgers: Deep semantic-visual embedding with localization",
+			"ArXiv":"1804.01720",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01720v2.pdf"
+		},
+		{
+			"Name":"Facelet-Bank for Fast Portrait Manipulation",
+			"ArXiv":"1803.05576",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05576v3.pdf"
+		},
+		{
+			"Name":"Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies",
+			"ArXiv":"1801.01615",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01615v1.pdf"
+		},
+		{
+			"Name":"On-Stack Replacement à la Carte",
+			"ArXiv":"1708.02512",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.02512v1.pdf"
+		},
+		{
+			"Name":"High-Quality Face Image SR Using Conditional Generative Adversarial Networks",
+			"ArXiv":"1707.00737",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.00737v1.pdf"
+		},
+		{
+			"Name":"Divide-and-Conquer with Sequential Monte Carlo",
+			"ArXiv":"1406.4993",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1406.4993v2.pdf"
+		},
+		{
+			"Name":"Rendering of Eyes for Eye-Shape Registration and Gaze Estimation",
+			"ArXiv":"1505.05916",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.05916v1.pdf"
+		},
+		{
+			"Name":"Object Modelling with a Handheld RGB-D Camera",
+			"ArXiv":"1505.05643",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.05643v1.pdf"
+		},
+		{
+			"Name":"MoCoGAN: Decomposing Motion and Content for Video Generation",
+			"ArXiv":"1707.04993",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.04993v2.pdf"
+		},
+		{
+			"Name":"Disentangled Person Image Generation",
+			"ArXiv":"1712.02621",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02621v2.pdf"
+		},
+		{
+			"Name":"Generative Image Inpainting with Contextual Attention",
+			"ArXiv":"1801.07892",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.07892v2.pdf"
+		},
+		{
+			"Name":"Learning visual biases from human imagination",
+			"ArXiv":"1410.4627",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1410.4627v2.pdf"
+		},
+		{
+			"Name":"Compassionately Conservative Balanced Cuts for Image Segmentation",
+			"ArXiv":"1803.09903",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09903v1.pdf"
+		},
+		{
+			"Name":"Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
+			"ArXiv":"1712.04569",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04569v1.pdf"
+		},
+		{
+			"Name":"3D Human Pose Estimation in the Wild by Adversarial Learning",
+			"ArXiv":"1803.09722",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09722v2.pdf"
+		},
+		{
+			"Name":"4D Temporally Coherent Light-field Video",
+			"ArXiv":"1804.11276",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.11276v1.pdf"
+		},
+		{
+			"Name":"GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks",
+			"ArXiv":"1710.00962",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.00962v2.pdf"
+		},
+		{
+			"Name":"Unsupervised Learning and Segmentation of Complex Activities from Video",
+			"ArXiv":"1803.09490",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09490v1.pdf"
+		},
+		{
+			"Name":"Discriminability objective for training descriptive captions",
+			"ArXiv":"1803.04376",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04376v1.pdf"
+		},
+		{
+			"Name":"Voronoi tessellations for matchbox manifolds",
+			"ArXiv":"1107.1910",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1107.1910v3.pdf"
+		},
+		{
+			"Name":"Learning Spatial-Aware Regressions for Visual Tracking",
+			"ArXiv":"1706.07457",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.07457v2.pdf"
+		},
+		{
+			"Name":"Fully Convolutional Networks for Semantic Segmentation",
+			"ArXiv":"1411.4038",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1411.4038v2.pdf"
+		},
+		{
+			"Name":"Load Balanced GANs for Multi-view Face Image Synthesis",
+			"ArXiv":"1802.07447",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07447v2.pdf"
+		},
+		{
+			"Name":"Learning Local Image Descriptors with Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions",
+			"ArXiv":"1512.09272",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1512.09272v2.pdf"
+		},
+		{
+			"Name":"Missing Slice Recovery for Tensors Using a Low-rank Model in Embedded Space",
+			"ArXiv":"1804.01736",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01736v1.pdf"
+		},
+		{
+			"Name":"A Memory Network Approach for Story-based Temporal Summarization of 360° Videos",
+			"ArXiv":"1805.02838",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.02838v1.pdf"
+		},
+		{
+			"Name":"On Detecting Adversarial Perturbations",
+			"ArXiv":"1702.04267",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.04267v2.pdf"
+		},
+		{
+			"Name":"Photometric Bundle Adjustment for Vision-Based SLAM",
+			"ArXiv":"1608.02026",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.02026v1.pdf"
+		},
+		{
+			"Name":"AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions",
+			"ArXiv":"1705.08421",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.08421v4.pdf"
+		},
+		{
+			"Name":"A Boosting Framework of Factorization Machine",
+			"ArXiv":"1804.06027",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06027v1.pdf"
+		},
+		{
+			"Name":"Image Correction via Deep Reciprocating HDR Transformation",
+			"ArXiv":"1804.04371",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04371v1.pdf"
+		},
+		{
+			"Name":"Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network",
+			"ArXiv":"1802.09178",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09178v2.pdf"
+		},
+		{
+			"Name":"Link and code: Fast indexing with graphs and compact regression codes",
+			"ArXiv":"1804.09996",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09996v2.pdf"
+		},
+		{
+			"Name":"Minimal Solvers for Monocular Rolling Shutter Compensation under Ackermann Motion",
+			"ArXiv":"1712.03159",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03159v1.pdf"
+		},
+		{
+			"Name":"Query-Focused Extractive Video Summarization",
+			"ArXiv":"1607.05177",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1607.05177v1.pdf"
+		},
+		{
+			"Name":"CoDraw: Visual Dialog for Collaborative Drawing",
+			"ArXiv":"1712.05558",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05558v1.pdf"
+		},
+		{
+			"Name":"Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer",
+			"ArXiv":"1805.04310",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04310v1.pdf"
+		},
+		{
+			"Name":"Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks",
+			"ArXiv":"1801.03454",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.03454v2.pdf"
+		},
+		{
+			"Name":"VizWiz Grand Challenge: Answering Visual Questions from Blind People",
+			"ArXiv":"1802.08218",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08218v4.pdf"
+		},
+		{
+			"Name":"Queueing Analysis of a Chagas Disease Control Campaign",
+			"ArXiv":"1706.08668",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.08668v1.pdf"
+		},
+		{
+			"Name":"Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?",
+			"ArXiv":"1711.09577",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09577v2.pdf"
+		},
+		{
+			"Name":"Neural 3D Mesh Renderer",
+			"ArXiv":"1711.07566",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07566v1.pdf"
+		},
+		{
+			"Name":"DeepIGeoS: A Deep Interactive Geodesic Framework for Medical Image Segmentation",
+			"ArXiv":"1707.00652",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.00652v3.pdf"
+		},
+		{
+			"Name":"Going Deeper with Contextual CNN for Hyperspectral Image Classification",
+			"ArXiv":"1604.03519",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.03519v3.pdf"
+		},
+		{
+			"Name":"Using Heavy Clique Base Coarsening to Enhance Virtual Network Embedding",
+			"ArXiv":"1502.02358",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1502.02358v1.pdf"
+		},
+		{
+			"Name":"Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction",
+			"ArXiv":"1706.07036",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.07036v1.pdf"
+		},
+		{
+			"Name":"Bounds to precision for an SU(1,1) interferometer with Gaussian input states",
+			"ArXiv":"1608.00389",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.00389v2.pdf"
+		},
+		{
+			"Name":"Preserving Semantic Relations for Zero-Shot Learning",
+			"ArXiv":"1803.03049",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03049v1.pdf"
+		},
+		{
+			"Name":"PoseTrack: A Benchmark for Human Pose Estimation and Tracking",
+			"ArXiv":"1710.10000",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.10000v2.pdf"
+		},
+		{
+			"Name":"Universal Denoising Networks : A Novel CNN Architecture for Image Denoising",
+			"ArXiv":"1711.07807",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07807v2.pdf"
+		},
+		{
+			"Name":"Deep Stereo Matching with Dense CRF Priors",
+			"ArXiv":"1612.01725",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.01725v2.pdf"
+		},
+		{
+			"Name":"Supervised Attentions for Neural Machine Translation",
+			"ArXiv":"1608.00112",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.00112v1.pdf"
+		},
+		{
+			"Name":"Learning Convolutional Text Representations for Visual Question Answering",
+			"ArXiv":"1705.06824",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.06824v2.pdf"
+		},
+		{
+			"Name":"Efficient Diverse Ensemble for Discriminative Co-Tracking",
+			"ArXiv":"1711.06564",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06564v1.pdf"
+		},
+		{
+			"Name":"Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars",
+			"ArXiv":"1804.01310",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01310v1.pdf"
+		},
+		{
+			"Name":"Guide Me: Interacting with Deep Networks",
+			"ArXiv":"1803.11544",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11544v1.pdf"
+		},
+		{
+			"Name":"Attention-Aware Compositional Network for Person Re-identification",
+			"ArXiv":"1805.03344",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.03344v2.pdf"
+		},
+		{
+			"Name":"Path Aggregation Network for Instance Segmentation",
+			"ArXiv":"1803.01534",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.01534v1.pdf"
+		},
+		{
+			"Name":"Recurrent Attentional Networks for Saliency Detection",
+			"ArXiv":"1604.03227",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.03227v1.pdf"
+		},
+		{
+			"Name":"LEGO: Learning Edge with Geometry all at Once by Watching Videos",
+			"ArXiv":"1803.05648",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05648v2.pdf"
+		},
+		{
+			"Name":"Scalable and Effective Deep CCA via Soft Decorrelation",
+			"ArXiv":"1707.09669",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.09669v2.pdf"
+		},
+		{
+			"Name":"Collective Decision Dynamics in the Presence of External Drivers",
+			"ArXiv":"1206.1120",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1206.1120v2.pdf"
+		},
+		{
+			"Name":"CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes",
+			"ArXiv":"1802.10062",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10062v4.pdf"
+		},
+		{
+			"Name":"Robust Convolutional Neural Networks under Adversarial Noise",
+			"ArXiv":"1511.06306",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.06306v2.pdf"
+		},
+		{
+			"Name":"Partial Transfer Learning with Selective Adversarial Networks",
+			"ArXiv":"1707.07901",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.07901v1.pdf"
+		},
+		{
+			"Name":"Formulating Categorical Concepts using Classes",
+			"ArXiv":"1801.08528",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.08528v2.pdf"
+		},
+		{
+			"Name":"A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking",
+			"ArXiv":"1711.10378",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10378v2.pdf"
+		},
+		{
+			"Name":"Exploring Disentangled Feature Representation Beyond Face Identification",
+			"ArXiv":"1804.03487",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.03487v1.pdf"
+		},
+		{
+			"Name":"Deep Video Deblurring",
+			"ArXiv":"1611.08387",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.08387v1.pdf"
+		},
+		{
+			"Name":"Flying Objects Detection from a Single Moving Camera",
+			"ArXiv":"1411.7715",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1411.7715v1.pdf"
+		},
+		{
+			"Name":"Universality of Deep Convolutional Neural Networks",
+			"ArXiv":"1805.10769",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.10769v1.pdf"
+		},
+		{
+			"Name":"MSnet: Mutual Suppression Network for Disentangled Video Representations",
+			"ArXiv":"1804.04810",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04810v1.pdf"
+		},
+		{
+			"Name":"Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
+			"ArXiv":"1711.09869",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09869v2.pdf"
+		},
+		{
+			"Name":"Superpixels: An Evaluation of the State-of-the-Art",
+			"ArXiv":"1612.01601",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.01601v3.pdf"
+		},
+		{
+			"Name":"CatGAN: Coupled Adversarial Transfer for Domain Generation",
+			"ArXiv":"1711.08904",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08904v1.pdf"
+		},
+		{
+			"Name":"PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing",
+			"ArXiv":"1805.04409",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04409v1.pdf"
+		},
+		{
+			"Name":"LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation",
+			"ArXiv":"1805.07036",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.07036v1.pdf"
+		},
+		{
+			"Name":"Learning Intelligent Dialogs for Bounding Box Annotation",
+			"ArXiv":"1712.08087",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.08087v2.pdf"
+		},
+		{
+			"Name":"Adversarial Attribute-Image Person Re-identification",
+			"ArXiv":"1712.01493",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01493v2.pdf"
+		},
+		{
+			"Name":"Toeplitz operators in TQFT via skein theory",
+			"ArXiv":"1108.0629",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1108.0629v2.pdf"
+		},
+		{
+			"Name":"Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++",
+			"ArXiv":"1803.09693",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09693v1.pdf"
+		},
+		{
+			"Name":"Sketch-a-Classifier: Sketch-based Photo Classifier Generation",
+			"ArXiv":"1804.11182",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.11182v1.pdf"
+		},
+		{
+			"Name":"Contextual Hypergraph Modelling for Salient Object Detection",
+			"ArXiv":"1310.5767",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1310.5767v1.pdf"
+		},
+		{
+			"Name":"Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform",
+			"ArXiv":"1804.02815",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02815v1.pdf"
+		},
+		{
+			"Name":"Weakly-supervised Discriminative Patch Learning via CNN for Fine-grained Recognition",
+			"ArXiv":"1611.09932",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.09932v2.pdf"
+		},
+		{
+			"Name":"Feature Selective Networks for Object Detection",
+			"ArXiv":"1711.08879",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08879v1.pdf"
+		},
+		{
+			"Name":"Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision",
+			"ArXiv":"1803.11097",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11097v1.pdf"
+		},
+		{
+			"Name":"Transferring a Semantic Representation for Person Re-Identification and Search",
+			"ArXiv":"1706.03725",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.03725v1.pdf"
+		},
+		{
+			"Name":"\"Pulling out\" as a procedural resource when solving partial differential equations",
+			"ArXiv":"1607.07493",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1607.07493v1.pdf"
+		},
+		{
+			"Name":"Weakly-Supervised Action Segmentation with Iterative Soft Boundary Assignment",
+			"ArXiv":"1803.10699",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10699v1.pdf"
+		},
+		{
+			"Name":"Generative Adversarial Image Synthesis with Decision Tree Latent Controller",
+			"ArXiv":"1805.10603",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.10603v1.pdf"
+		},
+		{
+			"Name":"A Noncommutative Sigma Model",
+			"ArXiv":"1208.0235",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1208.0235v1.pdf"
+		},
+		{
+			"Name":"Learning a Single Convolutional Super-Resolution Network for Multiple Degradations",
+			"ArXiv":"1712.06116",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06116v2.pdf"
+		},
+		{
+			"Name":"Towards Human-Machine Cooperation: Self-supervised Sample Mining for Object Detection",
+			"ArXiv":"1803.09867",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09867v2.pdf"
+		},
+		{
+			"Name":"Unstable minimal surfaces of annulus type in manifolds",
+			"ArXiv":"0603615",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0603615v2.pdf"
+		},
+		{
+			"Name":"Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data",
+			"ArXiv":"1803.05137",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05137v1.pdf"
+		},
+		{
+			"Name":"Bidirectional Long-Short Term Memory for Video Description",
+			"ArXiv":"1606.04631",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1606.04631v1.pdf"
+		},
+		{
+			"Name":"Robust Sparse Phase Retrieval Made Easy",
+			"ArXiv":"1410.5295",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1410.5295v2.pdf"
+		},
+		{
+			"Name":"Semantic Video Segmentation by Gated Recurrent Flow Propagation",
+			"ArXiv":"1612.08871",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.08871v2.pdf"
+		},
+		{
+			"Name":"Fast Fourier Optimization: Sparsity Matters",
+			"ArXiv":"1209.0617",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1209.0617v1.pdf"
+		},
+		{
+			"Name":"A Novel Multi-Task Tensor Correlation Neural Network for Facial Attribute Prediction",
+			"ArXiv":"1804.02810",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02810v1.pdf"
+		},
+		{
+			"Name":"One-Shot Video Object Segmentation",
+			"ArXiv":"1611.05198",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.05198v4.pdf"
+		},
+		{
+			"Name":"Separating Self-Expression and Visual Content in Hashtag Supervision",
+			"ArXiv":"1711.09825",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09825v1.pdf"
+		},
+		{
+			"Name":"AMNet: Memorability Estimation with Attention",
+			"ArXiv":"1804.03115",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.03115v1.pdf"
+		},
+		{
+			"Name":"Learning to Extract a Video Sequence from a Single Motion-Blurred Image",
+			"ArXiv":"1804.04065",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04065v1.pdf"
+		},
+		{
+			"Name":"Deep Hybrid Similarity Learning for Person Re-identification",
+			"ArXiv":"1702.04858",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.04858v2.pdf"
+		},
+		{
+			"Name":"Fast Spectral Ranking for Similarity Search",
+			"ArXiv":"1703.06935",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.06935v3.pdf"
+		},
+		{
+			"Name":"PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image",
+			"ArXiv":"1804.06278",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06278v1.pdf"
+		},
+		{
+			"Name":"Webly Supervised Learning for Skin Lesion Classification",
+			"ArXiv":"1804.00177",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00177v1.pdf"
+		},
+		{
+			"Name":"Multi-Content GAN for Few-Shot Font Style Transfer",
+			"ArXiv":"1712.00516",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00516v1.pdf"
+		},
+		{
+			"Name":"A Survey on optimization approaches to text document clustering",
+			"ArXiv":"1401.2229",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1401.2229v1.pdf"
+		},
+		{
+			"Name":"Deep Spatial Feature Reconstruction for Partial Person Re-identification: Alignment-Free Approach",
+			"ArXiv":"1801.00881",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.00881v2.pdf"
+		},
+		{
+			"Name":"The third approach to the history of mathematics in China",
+			"ArXiv":"0305024",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0305024v1.pdf"
+		},
+		{
+			"Name":"Learning deep structured active contours end-to-end",
+			"ArXiv":"1803.06329",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06329v1.pdf"
+		},
+		{
+			"Name":"Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge",
+			"ArXiv":"1708.02711",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.02711v1.pdf"
+		},
+		{
+			"Name":"Neuroevolution-Based Inverse Reinforcement Learning",
+			"ArXiv":"1608.02971",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.02971v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution",
+			"ArXiv":"1804.05042",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05042v1.pdf"
+		},
+		{
+			"Name":"Efficient Algorithms for Personalized PageRank",
+			"ArXiv":"1512.04633",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1512.04633v1.pdf"
+		},
+		{
+			"Name":"Text to Image Synthesis Using Generative Adversarial Networks",
+			"ArXiv":"1805.00676",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00676v1.pdf"
+		},
+		{
+			"Name":"Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks",
+			"ArXiv":"1709.07592",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.07592v3.pdf"
+		},
+		{
+			"Name":"Holography as deep learning",
+			"ArXiv":"1705.05750",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.05750v2.pdf"
+		},
+		{
+			"Name":"Weakly Supervised Attention Learning for Textual Phrases Grounding",
+			"ArXiv":"1805.00545",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00545v1.pdf"
+		},
+		{
+			"Name":"InLoc: Indoor Visual Localization with Dense Matching and View Synthesis",
+			"ArXiv":"1803.10368",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10368v2.pdf"
+		},
+		{
+			"Name":"Learning Steerable Filters for Rotation Equivariant CNNs",
+			"ArXiv":"1711.07289",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07289v3.pdf"
+		},
+		{
+			"Name":"Feature Space Transfer for Data Augmentation",
+			"ArXiv":"1801.04356",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.04356v2.pdf"
+		},
+		{
+			"Name":"Domain Adaptive Faster R-CNN for Object Detection in the Wild",
+			"ArXiv":"1803.03243",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03243v1.pdf"
+		},
+		{
+			"Name":"Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation",
+			"ArXiv":"1712.00080",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00080v1.pdf"
+		},
+		{
+			"Name":"SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels",
+			"ArXiv":"1711.08920",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08920v2.pdf"
+		},
+		{
+			"Name":"Skin Lesion Segmentation: U-Nets versus Clustering",
+			"ArXiv":"1710.01248",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.01248v1.pdf"
+		},
+		{
+			"Name":"Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition",
+			"ArXiv":"1711.11152",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11152v1.pdf"
+		},
+		{
+			"Name":"A neural network approach to ordinal regression",
+			"ArXiv":"0704.1028",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0704.1028v1.pdf"
+		},
+		{
+			"Name":"Neural Module Networks",
+			"ArXiv":"1511.02799",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.02799v4.pdf"
+		},
+		{
+			"Name":"clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions",
+			"ArXiv":"1712.06145",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06145v3.pdf"
+		},
+		{
+			"Name":"What have we learned from deep representations for action recognition?",
+			"ArXiv":"1801.01415",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01415v1.pdf"
+		},
+		{
+			"Name":"Crowd Counting Considering Network Flow Constraints in Videos",
+			"ArXiv":"1605.03821",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1605.03821v2.pdf"
+		},
+		{
+			"Name":"Fast Monte-Carlo Localization on Aerial Vehicles using Approximate Continuous Belief Representations",
+			"ArXiv":"1712.05507",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05507v3.pdf"
+		},
+		{
+			"Name":"Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks",
+			"ArXiv":"1709.00507",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.00507v2.pdf"
+		},
+		{
+			"Name":"Stable Desynchronization for Wireless Sensor Networks: (II) Performance Evaluation",
+			"ArXiv":"1704.07007",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.07007v1.pdf"
+		},
+		{
+			"Name":"FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis",
+			"ArXiv":"1706.05206",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.05206v2.pdf"
+		},
+		{
+			"Name":"Structure from Recurrent Motion: From Rigidity to Recurrency",
+			"ArXiv":"1804.06510",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06510v1.pdf"
+		},
+		{
+			"Name":"Thoracic Disease Identification and Localization with Limited Supervision",
+			"ArXiv":"1711.06373",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06373v5.pdf"
+		},
+		{
+			"Name":"Learning Compositional Visual Concepts with Mutual Consistency",
+			"ArXiv":"1711.06148",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06148v2.pdf"
+		},
+		{
+			"Name":"LSTM Pose Machines",
+			"ArXiv":"1712.06316",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.06316v4.pdf"
+		},
+		{
+			"Name":"Dynamic-structured Semantic Propagation Network",
+			"ArXiv":"1803.06067",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06067v1.pdf"
+		},
+		{
+			"Name":"Subspace Approximation for Approximate Nearest Neighbor Search in NLP",
+			"ArXiv":"1708.07775",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.07775v1.pdf"
+		},
+		{
+			"Name":"OLÉ: Orthogonal Low-rank Embedding, A Plug and Play Geometric Loss for Deep Learning",
+			"ArXiv":"1712.01727",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01727v1.pdf"
+		},
+		{
+			"Name":"PoseTrack: Joint Multi-Person Pose Estimation and Tracking",
+			"ArXiv":"1611.07727",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.07727v3.pdf"
+		},
+		{
+			"Name":"Frustum PointNets for 3D Object Detection from RGB-D Data",
+			"ArXiv":"1711.08488",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08488v2.pdf"
+		},
+		{
+			"Name":"A Closer Look at Spatiotemporal Convolutions for Action Recognition",
+			"ArXiv":"1711.11248",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11248v3.pdf"
+		},
+		{
+			"Name":"Unsupervised Generative Adversarial Cross-modal Hashing",
+			"ArXiv":"1712.00358",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00358v1.pdf"
+		},
+		{
+			"Name":"On the Duality Between Retinex and Image Dehazing",
+			"ArXiv":"1712.02754",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02754v2.pdf"
+		},
+		{
+			"Name":"Dense Human Body Correspondences Using Convolutional Networks",
+			"ArXiv":"1511.05904",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.05904v2.pdf"
+		},
+		{
+			"Name":"Latent Model Ensemble with Auto-localization",
+			"ArXiv":"1604.04333",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.04333v2.pdf"
+		},
+		{
+			"Name":"Learning Pose Specific Representations by Predicting Different Views",
+			"ArXiv":"1804.03390",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.03390v2.pdf"
+		},
+		{
+			"Name":"Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks",
+			"ArXiv":"1803.10892",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10892v1.pdf"
+		},
+		{
+			"Name":"Rethinking Feature Distribution for Loss Functions in Image Classification",
+			"ArXiv":"1803.02988",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.02988v1.pdf"
+		},
+		{
+			"Name":"A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts",
+			"ArXiv":"1712.01381",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01381v3.pdf"
+		},
+		{
+			"Name":"Context-aware Synthesis for Video Frame Interpolation",
+			"ArXiv":"1803.10967",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10967v1.pdf"
+		},
+		{
+			"Name":"Residual Parameter Transfer for Deep Domain Adaptation",
+			"ArXiv":"1711.07714",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07714v1.pdf"
+		},
+		{
+			"Name":"Zigzag Learning for Weakly Supervised Object Detection",
+			"ArXiv":"1804.09466",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09466v1.pdf"
+		},
+		{
+			"Name":"Multiple-Human Parsing in the Wild",
+			"ArXiv":"1705.07206",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.07206v2.pdf"
+		},
+		{
+			"Name":"Hand Pose Estimation via Latent 2.5D Heatmap Regression",
+			"ArXiv":"1804.09534",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09534v1.pdf"
+		},
+		{
+			"Name":"Multi-View 3D Object Detection Network for Autonomous Driving",
+			"ArXiv":"1611.07759",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.07759v3.pdf"
+		},
+		{
+			"Name":"Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning",
+			"ArXiv":"1711.07613",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07613v1.pdf"
+		},
+		{
+			"Name":"Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning",
+			"ArXiv":"1804.00100",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00100v2.pdf"
+		},
+		{
+			"Name":"Desensitized Kalman Filtering with Analytical Gain",
+			"ArXiv":"1504.04916",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1504.04916v1.pdf"
+		},
+		{
+			"Name":"Learning to See in the Dark",
+			"ArXiv":"1805.01934",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.01934v1.pdf"
+		},
+		{
+			"Name":"Revisiting Video Saliency: A Large-scale Benchmark and a New Model",
+			"ArXiv":"1801.07424",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.07424v3.pdf"
+		},
+		{
+			"Name":"Learning Dual Convolutional Neural Networks for Low-Level Vision",
+			"ArXiv":"1805.05020",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.05020v1.pdf"
+		},
+		{
+			"Name":"IGCV$2$: Interleaved Structured Sparse Convolutional Neural Networks",
+			"ArXiv":"1804.06202",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06202v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Domain Adaptation with Adversarial Residual Transform Networks",
+			"ArXiv":"1804.09578",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09578v1.pdf"
+		},
+		{
+			"Name":"Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification",
+			"ArXiv":"1803.09937",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09937v1.pdf"
+		},
+		{
+			"Name":"Cross-modal Deep Variational Hand Pose Estimation",
+			"ArXiv":"1803.11404",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11404v1.pdf"
+		},
+		{
+			"Name":"Joint Optimization Framework for Learning with Noisy Labels",
+			"ArXiv":"1803.11364",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11364v1.pdf"
+		},
+		{
+			"Name":"Multi-Image Semantic Matching by Mining Consistent Features",
+			"ArXiv":"1711.07641",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07641v2.pdf"
+		},
+		{
+			"Name":"U-Net: Convolutional Networks for Biomedical Image Segmentation",
+			"ArXiv":"1505.04597",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.04597v1.pdf"
+		},
+		{
+			"Name":"Alive Caricature from 2D to 3D",
+			"ArXiv":"1803.06802",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06802v3.pdf"
+		},
+		{
+			"Name":"Optimal routing on complex networks",
+			"ArXiv":"0607017",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0607017v2.pdf"
+		},
+		{
+			"Name":"Statistics of Deep Generated Images",
+			"ArXiv":"1708.02688",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.02688v3.pdf"
+		},
+		{
+			"Name":"Pseudo Mask Augmented Object Detection",
+			"ArXiv":"1803.05858",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05858v2.pdf"
+		},
+		{
+			"Name":"Optical tomography: forward and inverse problems",
+			"ArXiv":"0907.2586",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0907.2586v1.pdf"
+		},
+		{
+			"Name":"Residual Dense Network for Image Super-Resolution",
+			"ArXiv":"1802.08797",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08797v2.pdf"
+		},
+		{
+			"Name":"Learning Intrinsic Image Decomposition from Watching the World",
+			"ArXiv":"1804.00582",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00582v1.pdf"
+		},
+		{
+			"Name":"Transfer Adversarial Hashing for Hamming Space Retrieval",
+			"ArXiv":"1712.04616",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04616v1.pdf"
+		},
+		{
+			"Name":"Actor and Action Video Segmentation from a Sentence",
+			"ArXiv":"1803.07485",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.07485v1.pdf"
+		},
+		{
+			"Name":"Im2Struct: Recovering 3D Shape Structure from a Single RGB Image",
+			"ArXiv":"1804.05469",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05469v1.pdf"
+		},
+		{
+			"Name":"Predicting Ground-Level Scene Layout from Aerial Imagery",
+			"ArXiv":"1612.02709",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.02709v1.pdf"
+		},
+		{
+			"Name":"Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework",
+			"ArXiv":"1803.10433",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10433v1.pdf"
+		},
+		{
+			"Name":"Aging on Parisi's tree",
+			"ArXiv":"9410022",
+			"PDF":"https:\/\/arxiv.org\/pdf\/9410022v1.pdf"
+		},
+		{
+			"Name":"Production-Level Facial Performance Capture Using Deep Convolutional Neural Networks",
+			"ArXiv":"1609.06536",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.06536v2.pdf"
+		},
+		{
+			"Name":"Improving Shadow Suppression for Illumination Robust Face Recognition",
+			"ArXiv":"1710.05073",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.05073v1.pdf"
+		},
+		{
+			"Name":"IQA: Visual Question Answering in Interactive Environments",
+			"ArXiv":"1712.03316",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03316v2.pdf"
+		},
+		{
+			"Name":"In-Place Activated BatchNorm for Memory-Optimized Training of DNNs",
+			"ArXiv":"1712.02616",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02616v2.pdf"
+		},
+		{
+			"Name":"COCO-Stuff: Thing and Stuff Classes in Context",
+			"ArXiv":"1612.03716",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.03716v4.pdf"
+		},
+		{
+			"Name":"Toward Natural Gesture\/Speech Control of a Large Display",
+			"ArXiv":"0105026",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0105026v1.pdf"
+		},
+		{
+			"Name":"Unsupervised 3D Reconstruction from a Single Image via Adversarial Learning",
+			"ArXiv":"1711.09312",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09312v1.pdf"
+		},
+		{
+			"Name":"Local Descriptors Optimized for Average Precision",
+			"ArXiv":"1804.05312",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05312v2.pdf"
+		},
+		{
+			"Name":"An end-to-end TextSpotter with Explicit Alignment and Attention",
+			"ArXiv":"1803.03474",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03474v3.pdf"
+		},
+		{
+			"Name":"Perturbative Unidirectional Invisibility",
+			"ArXiv":"1507.02085",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1507.02085v1.pdf"
+		},
+		{
+			"Name":"Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database",
+			"ArXiv":"1711.10535",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10535v2.pdf"
+		},
+		{
+			"Name":"Adversarial Complementary Learning for Weakly Supervised Object Localization",
+			"ArXiv":"1804.06962",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06962v1.pdf"
+		},
+		{
+			"Name":"Weakly Supervised Learning for Salient Object Detection",
+			"ArXiv":"1501.07492",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1501.07492v2.pdf"
+		},
+		{
+			"Name":"Benchmarking Multimodal Sentiment Analysis",
+			"ArXiv":"1707.09538",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.09538v1.pdf"
+		},
+		{
+			"Name":"FairGAN: Fairness-aware Generative Adversarial Networks",
+			"ArXiv":"1805.11202",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11202v1.pdf"
+		},
+		{
+			"Name":"Latent RANSAC",
+			"ArXiv":"1802.07045",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07045v1.pdf"
+		},
+		{
+			"Name":"Diversity-aware Multi-Video Summarization",
+			"ArXiv":"1706.03123",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.03123v1.pdf"
+		},
+		{
+			"Name":"Reconstruction Network for Video Captioning",
+			"ArXiv":"1803.11438",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11438v1.pdf"
+		},
+		{
+			"Name":"DetNet: A Backbone network for Object Detection",
+			"ArXiv":"1804.06215",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06215v2.pdf"
+		},
+		{
+			"Name":"Memory Matching Networks for One-Shot Image Recognition",
+			"ArXiv":"1804.08281",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08281v1.pdf"
+		},
+		{
+			"Name":"Intrinsic Image Transformation via Scale Space Decomposition",
+			"ArXiv":"1805.10253",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.10253v1.pdf"
+		},
+		{
+			"Name":"Facial Landmark Detection with Tweaked Convolutional Neural Networks",
+			"ArXiv":"1511.04031",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.04031v2.pdf"
+		},
+		{
+			"Name":"Weakly Supervised Instance Segmentation using Class Peak Response",
+			"ArXiv":"1804.00880",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00880v1.pdf"
+		},
+		{
+			"Name":"Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification",
+			"ArXiv":"1803.09882",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09882v1.pdf"
+		},
+		{
+			"Name":"Rolling Shutter Camera Relative Pose: Generalized Epipolar Geometry",
+			"ArXiv":"1605.00475",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1605.00475v1.pdf"
+		},
+		{
+			"Name":"Learning Generative ConvNets via Multi-grid Modeling and Sampling",
+			"ArXiv":"1709.08868",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.08868v2.pdf"
+		},
+		{
+			"Name":"Generating a Fusion Image: One's Identity and Another's Shape",
+			"ArXiv":"1804.07455",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.07455v1.pdf"
+		},
+		{
+			"Name":"A Causal And-Or Graph Model for Visibility Fluent Reasoning in Tracking Interacting Objects",
+			"ArXiv":"1709.05437",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.05437v2.pdf"
+		},
+		{
+			"Name":"Photo-realistic Facial Texture Transfer",
+			"ArXiv":"1706.04306",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.04306v1.pdf"
+		},
+		{
+			"Name":"Deep Discrete Supervised Hashing",
+			"ArXiv":"1707.09905",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.09905v1.pdf"
+		},
+		{
+			"Name":"V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map",
+			"ArXiv":"1711.07399",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07399v2.pdf"
+		},
+		{
+			"Name":"Cascade R-CNN: Delving into High Quality Object Detection",
+			"ArXiv":"1712.00726",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00726v1.pdf"
+		},
+		{
+			"Name":"End-to-end Flow Correlation Tracking with Spatial-temporal Attention",
+			"ArXiv":"1711.01124",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.01124v4.pdf"
+		},
+		{
+			"Name":"Non-Linear Temporal Subspace Representations for Activity Recognition",
+			"ArXiv":"1803.11064",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11064v1.pdf"
+		},
+		{
+			"Name":"Future Person Localization in First-Person Videos",
+			"ArXiv":"1711.11217",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11217v2.pdf"
+		},
+		{
+			"Name":"Single View Stereo Matching",
+			"ArXiv":"1803.02612",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.02612v2.pdf"
+		},
+		{
+			"Name":"Improved Lossy Image Compression with Priming and Spatially Adaptive Bit Rates for Recurrent Networks",
+			"ArXiv":"1703.10114",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.10114v1.pdf"
+		},
+		{
+			"Name":"Learning to Learn Neural Networks",
+			"ArXiv":"1610.06072",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1610.06072v1.pdf"
+		},
+		{
+			"Name":"Flow-free Video Object Segmentation",
+			"ArXiv":"1706.09544",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.09544v1.pdf"
+		},
+		{
+			"Name":"Fingerprint Extraction Using Smartphone Camera",
+			"ArXiv":"1708.00884",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.00884v1.pdf"
+		},
+		{
+			"Name":"Deep Structured Learning for Facial Action Unit Intensity Estimation",
+			"ArXiv":"1704.04481",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.04481v1.pdf"
+		},
+		{
+			"Name":"Ordinal Depth Supervision for 3D Human Pose Estimation",
+			"ArXiv":"1805.04095",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04095v1.pdf"
+		},
+		{
+			"Name":"Personalized Age Progression with Aging Dictionary",
+			"ArXiv":"1510.06503",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1510.06503v1.pdf"
+		},
+		{
+			"Name":"Automatic Facial Expression Recognition Using Features of Salient Facial Patches",
+			"ArXiv":"1505.04026",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.04026v1.pdf"
+		},
+		{
+			"Name":"Time-of-flight imaging of invisibility cloaks",
+			"ArXiv":"1110.3291",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1110.3291v1.pdf"
+		},
+		{
+			"Name":"Robust Physical-World Attacks on Deep Learning Models",
+			"ArXiv":"1707.08945",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.08945v5.pdf"
+		},
+		{
+			"Name":"Texture Based Image Segmentation of Chili Pepper X-Ray Images Using Gabor Filter",
+			"ArXiv":"1405.1966",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1405.1966v1.pdf"
+		},
+		{
+			"Name":"NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning",
+			"ArXiv":"1805.06875",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.06875v1.pdf"
+		},
+		{
+			"Name":"Real-Time Seamless Single Shot 6D Object Pose Prediction",
+			"ArXiv":"1711.08848",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08848v4.pdf"
+		},
+		{
+			"Name":"Learning Video Object Segmentation from Static Images",
+			"ArXiv":"1612.02646",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.02646v1.pdf"
+		},
+		{
+			"Name":"Learning Latent Super-Events to Detect Multiple Activities in Videos",
+			"ArXiv":"1712.01938",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01938v2.pdf"
+		},
+		{
+			"Name":"PPFNet: Global Context Aware Local Features for Robust 3D Point Matching",
+			"ArXiv":"1802.02669",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.02669v2.pdf"
+		},
+		{
+			"Name":"Retraining-Based Iterative Weight Quantization for Deep Neural Networks",
+			"ArXiv":"1805.11233",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11233v1.pdf"
+		},
+		{
+			"Name":"Convolutional Experts Constrained Local Model for Facial Landmark Detection",
+			"ArXiv":"1611.08657",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.08657v5.pdf"
+		},
+		{
+			"Name":"Polynomial Regression on Riemannian Manifolds",
+			"ArXiv":"1201.2395",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1201.2395v2.pdf"
+		},
+		{
+			"Name":"Object Referring in Videos with Language and Human Gaze",
+			"ArXiv":"1801.01582",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01582v2.pdf"
+		},
+		{
+			"Name":"3D Time-lapse Reconstruction from Internet Photos",
+			"ArXiv":"1511.03019",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.03019v1.pdf"
+		},
+		{
+			"Name":"DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map",
+			"ArXiv":"1805.04949",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04949v1.pdf"
+		},
+		{
+			"Name":"A Survey on Network Embedding",
+			"ArXiv":"1711.08752",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08752v1.pdf"
+		},
+		{
+			"Name":"Arbitrary Style Transfer with Deep Feature Reshuffle",
+			"ArXiv":"1805.04103",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04103v2.pdf"
+		},
+		{
+			"Name":"Spline Error Weighting for Robust Visual-Inertial Fusion",
+			"ArXiv":"1804.04820",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04820v1.pdf"
+		},
+		{
+			"Name":"SimplE Embedding for Link Prediction in Knowledge Graphs",
+			"ArXiv":"1802.04868",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.04868v1.pdf"
+		},
+		{
+			"Name":"Six Challenges for Neural Machine Translation",
+			"ArXiv":"1706.03872",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.03872v1.pdf"
+		},
+		{
+			"Name":"Deformable Parts Correlation Filters for Robust Visual Tracking",
+			"ArXiv":"1605.03720",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1605.03720v1.pdf"
+		},
+		{
+			"Name":"Referring Relationships",
+			"ArXiv":"1803.10362",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10362v2.pdf"
+		},
+		{
+			"Name":"Actor and Observer: Joint Modeling of First and Third-Person Videos",
+			"ArXiv":"1804.09627",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09627v1.pdf"
+		},
+		{
+			"Name":"Image Restoration by Estimating Frequency Distribution of Local Patches",
+			"ArXiv":"1805.09097",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.09097v1.pdf"
+		},
+		{
+			"Name":"Searching for Objects using Structure in Indoor Scenes",
+			"ArXiv":"1511.07710",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.07710v1.pdf"
+		},
+		{
+			"Name":"Convolutional Neural Networks with Alternately Updated Clique",
+			"ArXiv":"1802.10419",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10419v3.pdf"
+		},
+		{
+			"Name":"Hierarchical Novelty Detection for Visual Object Recognition",
+			"ArXiv":"1804.00722",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00722v1.pdf"
+		},
+		{
+			"Name":"Characterization of Fundamental Networks",
+			"ArXiv":"1712.01616",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01616v1.pdf"
+		},
+		{
+			"Name":"Bayesian active learning for choice models with deep Gaussian processes",
+			"ArXiv":"1805.01867",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.01867v1.pdf"
+		},
+		{
+			"Name":"Semantic Facial Expression Editing using Autoencoded Flow",
+			"ArXiv":"1611.09961",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1611.09961v1.pdf"
+		},
+		{
+			"Name":"PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume",
+			"ArXiv":"1709.02371",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.02371v2.pdf"
+		},
+		{
+			"Name":"Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers",
+			"ArXiv":"1804.10975",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.10975v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Correlation Analysis",
+			"ArXiv":"1804.00347",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00347v1.pdf"
+		},
+		{
+			"Name":"View Extrapolation of Human Body from a Single Image",
+			"ArXiv":"1804.04213",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04213v1.pdf"
+		},
+		{
+			"Name":"Semantic Visual Localization",
+			"ArXiv":"1712.05773",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.05773v2.pdf"
+		},
+		{
+			"Name":"R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+			"ArXiv":"1605.06409",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1605.06409v2.pdf"
+		},
+		{
+			"Name":"Detecting and Recognizing Human-Object Interactions",
+			"ArXiv":"1704.07333",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.07333v3.pdf"
+		},
+		{
+			"Name":"Objects as context for detecting their semantic parts",
+			"ArXiv":"1703.09529",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.09529v3.pdf"
+		},
+		{
+			"Name":"Neural Motifs: Scene Graph Parsing with Global Context",
+			"ArXiv":"1711.06640",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06640v2.pdf"
+		},
+		{
+			"Name":"Learning Semantic Concepts and Order for Image and Sentence Matching",
+			"ArXiv":"1712.02036",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02036v1.pdf"
+		},
+		{
+			"Name":"Classification Driven Dynamic Image Enhancement",
+			"ArXiv":"1710.07558",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.07558v3.pdf"
+		},
+		{
+			"Name":"Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking",
+			"ArXiv":"1803.11285",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11285v1.pdf"
+		},
+		{
+			"Name":"Ontology Based Document Clustering Using MapReduce",
+			"ArXiv":"1505.02891",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.02891v1.pdf"
+		},
+		{
+			"Name":"Multiple shadows from distorted static black holes",
+			"ArXiv":"1802.03062",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.03062v1.pdf"
+		},
+		{
+			"Name":"Pose-Robust Face Recognition via Deep Residual Equivariant Mapping",
+			"ArXiv":"1803.00839",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00839v1.pdf"
+		},
+		{
+			"Name":"PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition",
+			"ArXiv":"1804.03492",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.03492v3.pdf"
+		},
+		{
+			"Name":"Occlusion Aware Unsupervised Learning of Optical Flow",
+			"ArXiv":"1711.05890",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05890v2.pdf"
+		},
+		{
+			"Name":"A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation",
+			"ArXiv":"1804.01306",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01306v1.pdf"
+		},
+		{
+			"Name":"Online Video Deblurring via Dynamic Temporal Blending Network",
+			"ArXiv":"1704.03285",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.03285v1.pdf"
+		},
+		{
+			"Name":"Mask-aware Photorealistic Face Attribute Manipulation",
+			"ArXiv":"1804.08882",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08882v1.pdf"
+		},
+		{
+			"Name":"High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
+			"ArXiv":"1711.11585",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11585v1.pdf"
+		},
+		{
+			"Name":"Tomographic map within the framework of star-product quantization",
+			"ArXiv":"0112112",
+			"PDF":"https:\/\/arxiv.org\/pdf\/0112112v1.pdf"
+		},
+		{
+			"Name":"Multiple Network Alignment on Quantum Computers",
+			"ArXiv":"1307.7220",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1307.7220v2.pdf"
+		},
+		{
+			"Name":"SPLATNet: Sparse Lattice Networks for Point Cloud Processing",
+			"ArXiv":"1802.08275",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08275v4.pdf"
+		},
+		{
+			"Name":"Rotation-Sensitive Regression for Oriented Scene Text Detection",
+			"ArXiv":"1803.05265",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05265v1.pdf"
+		},
+		{
+			"Name":"Scalable Dense Non-rigid Structure-from-Motion: A Grassmannian Perspective",
+			"ArXiv":"1803.00233",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00233v2.pdf"
+		},
+		{
+			"Name":"Articulated Hand Pose Estimation Review",
+			"ArXiv":"1604.06195",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1604.06195v1.pdf"
+		},
+		{
+			"Name":"Perceptual Adversarial Networks for Image-to-Image Transformation",
+			"ArXiv":"1706.09138",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.09138v1.pdf"
+		},
+		{
+			"Name":"Polygons in billiard orbits",
+			"ArXiv":"1106.2030",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1106.2030v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Discovery of Object Landmarks as Structural Representations",
+			"ArXiv":"1804.04412",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04412v1.pdf"
+		},
+		{
+			"Name":"End-to-End Dense Video Captioning with Masked Transformer",
+			"ArXiv":"1804.00819",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00819v1.pdf"
+		},
+		{
+			"Name":"BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning",
+			"ArXiv":"1711.06959",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06959v1.pdf"
+		},
+		{
+			"Name":"Detecting Hands in Egocentric Videos: Towards Action Recognition",
+			"ArXiv":"1709.02780",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.02780v1.pdf"
+		},
+		{
+			"Name":"Two-Stream Convolutional Networks for Dynamic Texture Synthesis",
+			"ArXiv":"1706.06982",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.06982v4.pdf"
+		},
+		{
+			"Name":"Analytical Modeling of Vanishing Points and Curves in Catadioptric Cameras",
+			"ArXiv":"1804.09460",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.09460v1.pdf"
+		},
+		{
+			"Name":"Visual Question Generation as Dual Task of Visual Question Answering",
+			"ArXiv":"1709.07192",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.07192v1.pdf"
+		},
+		{
+			"Name":"3D Facial Action Units Recognition for Emotional Expression",
+			"ArXiv":"1712.00195",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.00195v1.pdf"
+		},
+		{
+			"Name":"PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+			"ArXiv":"1711.05769",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05769v2.pdf"
+		},
+		{
+			"Name":"Generating Synthetic X-ray Images of a Person from the Surface Geometry",
+			"ArXiv":"1805.00553",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00553v2.pdf"
+		},
+		{
+			"Name":"Robust Seed Mask Generation for Interactive Image Segmentation",
+			"ArXiv":"1711.07419",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07419v1.pdf"
+		},
+		{
+			"Name":"Predicting Yelp Star Reviews Based on Network Structure with Deep Learning",
+			"ArXiv":"1712.04350",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04350v1.pdf"
+		},
+		{
+			"Name":"Manifold Relevance Determination",
+			"ArXiv":"1206.4610",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1206.4610v1.pdf"
+		},
+		{
+			"Name":"Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries",
+			"ArXiv":"1711.06370",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06370v1.pdf"
+		},
+		{
+			"Name":"3D-DETNet: a Single Stage Video-Based Vehicle Detector",
+			"ArXiv":"1801.01769",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.01769v2.pdf"
+		},
+		{
+			"Name":"Gram matrices of reproducing kernel Hilbert spaces over graphs",
+			"ArXiv":"1212.4346",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1212.4346v1.pdf"
+		},
+		{
+			"Name":"Joint Cuts and Matching of Partitions in One Graph",
+			"ArXiv":"1711.09584",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09584v1.pdf"
+		},
+		{
+			"Name":"The Indian Spontaneous Expression Database for Emotion Recognition",
+			"ArXiv":"1512.00932",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1512.00932v2.pdf"
+		},
+		{
+			"Name":"Multi-shot Pedestrian Re-identification via Sequential Decision Making",
+			"ArXiv":"1712.07257",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07257v2.pdf"
+		},
+		{
+			"Name":"Polarisation of Class II Methanol Masers",
+			"ArXiv":"1109.2988",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1109.2988v1.pdf"
+		},
+		{
+			"Name":"A vision based system for underwater docking",
+			"ArXiv":"1712.04138",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04138v1.pdf"
+		},
+		{
+			"Name":"Blind Predicting Similar Quality Map for Image Quality Assessment",
+			"ArXiv":"1805.08493",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08493v1.pdf"
+		},
+		{
+			"Name":"Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network",
+			"ArXiv":"1802.09655",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09655v1.pdf"
+		},
+		{
+			"Name":"Chinese Typeface Transformation with Hierarchical Adversarial Network",
+			"ArXiv":"1711.06448",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06448v1.pdf"
+		},
+		{
+			"Name":"Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models",
+			"ArXiv":"1711.06420",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06420v1.pdf"
+		},
+		{
+			"Name":"Depth Super-Resolution Meets Uncalibrated Photometric Stereo",
+			"ArXiv":"1708.00411",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.00411v2.pdf"
+		},
+		{
+			"Name":"Iterative Learning with Open-set Noisy Labels",
+			"ArXiv":"1804.00092",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00092v1.pdf"
+		},
+		{
+			"Name":"Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Networks",
+			"ArXiv":"1712.01928",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01928v2.pdf"
+		},
+		{
+			"Name":"Low-Shot Learning with Imprinted Weights",
+			"ArXiv":"1712.07136",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07136v2.pdf"
+		},
+		{
+			"Name":"Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty",
+			"ArXiv":"1711.09026",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09026v1.pdf"
+		},
+		{
+			"Name":"Smooth Neighbors on Teacher Graphs for Semi-supervised Learning",
+			"ArXiv":"1711.00258",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.00258v2.pdf"
+		},
+		{
+			"Name":"Recurrent Residual Module for Fast Inference in Videos",
+			"ArXiv":"1802.09723",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09723v1.pdf"
+		},
+		{
+			"Name":"Pixels, voxels, and views: A study of shape representations for single view 3D object shape prediction",
+			"ArXiv":"1804.06032",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.06032v1.pdf"
+		},
+		{
+			"Name":"Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification",
+			"ArXiv":"1711.07027",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07027v3.pdf"
+		},
+		{
+			"Name":"Im2Flow: Motion Hallucination from Static Images for Action Recognition",
+			"ArXiv":"1712.04109",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.04109v3.pdf"
+		},
+		{
+			"Name":"Face Aging With Conditional Generative Adversarial Networks",
+			"ArXiv":"1702.01983",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.01983v2.pdf"
+		},
+		{
+			"Name":"A Hierarchical Probabilistic Model for Facial Feature Detection",
+			"ArXiv":"1709.05732",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.05732v1.pdf"
+		},
+		{
+			"Name":"Deep Image Prior",
+			"ArXiv":"1711.10925",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10925v3.pdf"
+		},
+		{
+			"Name":"A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection",
+			"ArXiv":"1704.03414",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.03414v1.pdf"
+		},
+		{
+			"Name":"Global versus Localized Generative Adversarial Nets",
+			"ArXiv":"1711.06020",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06020v2.pdf"
+		},
+		{
+			"Name":"Multi-Frame Quality Enhancement for Compressed Video",
+			"ArXiv":"1803.04680",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.04680v4.pdf"
+		},
+		{
+			"Name":"2D\/3D Pose Estimation and Action Recognition using Multitask Deep Learning",
+			"ArXiv":"1802.09232",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09232v2.pdf"
+		},
+		{
+			"Name":"A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds",
+			"ArXiv":"1803.07191",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.07191v1.pdf"
+		},
+		{
+			"Name":"Who Let The Dogs Out? Modeling Dog Behavior From Visual Data",
+			"ArXiv":"1803.10827",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10827v2.pdf"
+		},
+		{
+			"Name":"Sim2Real View Invariant Visual Servoing by Recurrent Control",
+			"ArXiv":"1712.07642",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07642v1.pdf"
+		},
+		{
+			"Name":"Resource Aware Person Re-identification across Multiple Resolutions",
+			"ArXiv":"1805.08805",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08805v2.pdf"
+		},
+		{
+			"Name":"Multitask Parsing Across Semantic Representations",
+			"ArXiv":"1805.00287",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00287v1.pdf"
+		},
+		{
+			"Name":"On the Robustness of Semantic Segmentation Models to Adversarial Attacks",
+			"ArXiv":"1711.09856",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09856v2.pdf"
+		},
+		{
+			"Name":"Feedback-prop: Convolutional Neural Network Inference under Partial Evidence",
+			"ArXiv":"1710.08049",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1710.08049v2.pdf"
+		},
+		{
+			"Name":"Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition",
+			"ArXiv":"1803.11366",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11366v1.pdf"
+		},
+		{
+			"Name":"Synthesis-based Robust Low Resolution Face Recognition",
+			"ArXiv":"1707.02733",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.02733v1.pdf"
+		},
+		{
+			"Name":"Discriminative Learning of Latent Features for Zero-Shot Recognition",
+			"ArXiv":"1803.06731",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06731v1.pdf"
+		},
+		{
+			"Name":"Learning from Millions of 3D Scans for Large-scale 3D Face Recognition",
+			"ArXiv":"1711.05942",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.05942v2.pdf"
+		},
+		{
+			"Name":"On-Demand Learning for Deep Image Restoration",
+			"ArXiv":"1612.01380",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.01380v3.pdf"
+		},
+		{
+			"Name":"Learning Transferable Architectures for Scalable Image Recognition",
+			"ArXiv":"1707.07012",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.07012v4.pdf"
+		},
+		{
+			"Name":"SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation",
+			"ArXiv":"1711.08588",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08588v1.pdf"
+		},
+		{
+			"Name":"Towards Open-Set Identity Preserving Face Synthesis",
+			"ArXiv":"1803.11182",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.11182v1.pdf"
+		},
+		{
+			"Name":"Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval",
+			"ArXiv":"1804.01223",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01223v1.pdf"
+		},
+		{
+			"Name":"Seeing Voices and Hearing Faces: Cross-modal biometric matching",
+			"ArXiv":"1804.00326",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00326v2.pdf"
+		},
+		{
+			"Name":"Thermal noise for quantum state inference",
+			"ArXiv":"1302.3838",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1302.3838v1.pdf"
+		},
+		{
+			"Name":"Quantum Uncertainty and Error-Disturbance Tradeoff",
+			"ArXiv":"1411.0587",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1411.0587v1.pdf"
+		},
+		{
+			"Name":"Visual to Sound: Generating Natural Sound for Videos in the Wild",
+			"ArXiv":"1712.01393",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01393v1.pdf"
+		},
+		{
+			"Name":"Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons",
+			"ArXiv":"1711.07998",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07998v1.pdf"
+		},
+		{
+			"Name":"Quantum Consciousness Soccer Simulator",
+			"ArXiv":"1211.2719",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1211.2719v2.pdf"
+		},
+		{
+			"Name":"Collaborative Learning for Weakly Supervised Object Detection",
+			"ArXiv":"1802.03531",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.03531v1.pdf"
+		},
+		{
+			"Name":"Making a Case for Learning Motion Representations with Phase",
+			"ArXiv":"1609.01693",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1609.01693v2.pdf"
+		},
+		{
+			"Name":"Visual Reference Resolution using Attention Memory for Visual Dialog",
+			"ArXiv":"1709.07992",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.07992v2.pdf"
+		},
+		{
+			"Name":"Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions",
+			"ArXiv":"1707.09092",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.09092v3.pdf"
+		},
+		{
+			"Name":"Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints",
+			"ArXiv":"1802.05522",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.05522v1.pdf"
+		},
+		{
+			"Name":"MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head poses",
+			"ArXiv":"1805.00652",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00652v1.pdf"
+		},
+		{
+			"Name":"FlipDial: A Generative Model for Two-Way Visual Dialogue",
+			"ArXiv":"1802.03803",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.03803v2.pdf"
+		},
+		{
+			"Name":"Decoupled Networks",
+			"ArXiv":"1804.08071",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08071v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Person Re-identification: Clustering and Fine-tuning",
+			"ArXiv":"1705.10444",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.10444v2.pdf"
+		},
+		{
+			"Name":"Estimation of Camera Locations in Highly Corrupted Scenarios: All About that Base, No Shape Trouble",
+			"ArXiv":"1804.02591",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02591v1.pdf"
+		},
+		{
+			"Name":"Deep Learning for Answer Sentence Selection",
+			"ArXiv":"1412.1632",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1412.1632v1.pdf"
+		},
+		{
+			"Name":"Beyond the Pixel-Wise Loss for Topology-Aware Delineation",
+			"ArXiv":"1712.02190",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02190v1.pdf"
+		},
+		{
+			"Name":"Speech-Based Visual Question Answering",
+			"ArXiv":"1705.00464",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.00464v2.pdf"
+		},
+		{
+			"Name":"Human Activity Learning using Object Affordances from RGB-D Videos",
+			"ArXiv":"1208.0967",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1208.0967v1.pdf"
+		},
+		{
+			"Name":"Deformable GANs for Pose-based Human Image Generation",
+			"ArXiv":"1801.00055",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.00055v2.pdf"
+		},
+		{
+			"Name":"Hierarchical Recurrent Attention Network for Response Generation",
+			"ArXiv":"1701.07149",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1701.07149v1.pdf"
+		},
+		{
+			"Name":"Structured Set Matching Networks for One-Shot Part Labeling",
+			"ArXiv":"1712.01867",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.01867v2.pdf"
+		},
+		{
+			"Name":"Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions",
+			"ArXiv":"1711.08141",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08141v2.pdf"
+		},
+		{
+			"Name":"Learned Perceptual Image Enhancement",
+			"ArXiv":"1712.02864",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02864v1.pdf"
+		},
+		{
+			"Name":"Customized Image Narrative Generation via Interactive Visual Question Generation and Answering",
+			"ArXiv":"1805.00460",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.00460v1.pdf"
+		},
+		{
+			"Name":"Exploring Person Context and Local Scene Context for Object Detection",
+			"ArXiv":"1511.08177",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.08177v1.pdf"
+		},
+		{
+			"Name":"Towards Efficient Abstractions for Concurrent Consensus",
+			"ArXiv":"1304.1913",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1304.1913v2.pdf"
+		},
+		{
+			"Name":"Wasserstein Introspective Neural Networks",
+			"ArXiv":"1711.08875",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08875v5.pdf"
+		},
+		{
+			"Name":"Title Generation for User Generated Videos",
+			"ArXiv":"1608.07068",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.07068v2.pdf"
+		},
+		{
+			"Name":"Deep Sparse Subspace Clustering",
+			"ArXiv":"1709.08374",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.08374v1.pdf"
+		},
+		{
+			"Name":"HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification",
+			"ArXiv":"1803.07913",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.07913v1.pdf"
+		},
+		{
+			"Name":"Label Denoising Adversarial Network (LDAN) for Inverse Lighting of Face Images",
+			"ArXiv":"1709.01993",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.01993v1.pdf"
+		},
+		{
+			"Name":"Flow-Guided Feature Aggregation for Video Object Detection",
+			"ArXiv":"1703.10025",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.10025v2.pdf"
+		},
+		{
+			"Name":"Learning a Discriminative Prior for Blind Image Deblurring",
+			"ArXiv":"1803.03363",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03363v2.pdf"
+		},
+		{
+			"Name":"Camera Style Adaptation for Person Re-identification",
+			"ArXiv":"1711.10295",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10295v2.pdf"
+		},
+		{
+			"Name":"SCAF An effective approach to Classify Subspace Clustering algorithms",
+			"ArXiv":"1304.3603",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1304.3603v1.pdf"
+		},
+		{
+			"Name":"DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks",
+			"ArXiv":"1711.07064",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07064v4.pdf"
+		},
+		{
+			"Name":"Adversarial Synthesis Learning Enables Segmentation Without Target Modality Ground Truth",
+			"ArXiv":"1712.07695",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07695v1.pdf"
+		},
+		{
+			"Name":"Deep Keyframe Detection in Human Action Videos",
+			"ArXiv":"1804.10021",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.10021v1.pdf"
+		},
+		{
+			"Name":"InverseFaceNet: Deep Monocular Inverse Face Rendering",
+			"ArXiv":"1703.10956",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1703.10956v2.pdf"
+		},
+		{
+			"Name":"Graph-Cut RANSAC",
+			"ArXiv":"1706.00984",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.00984v2.pdf"
+		},
+		{
+			"Name":"Lightweight Probabilistic Deep Networks",
+			"ArXiv":"1805.11327",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.11327v1.pdf"
+		},
+		{
+			"Name":"Video Question Answering via Attribute-Augmented Attention Network Learning",
+			"ArXiv":"1707.06355",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.06355v1.pdf"
+		},
+		{
+			"Name":"Fooling Vision and Language Models Despite Localization and Attention Mechanism",
+			"ArXiv":"1709.08693",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.08693v2.pdf"
+		},
+		{
+			"Name":"CSGNet: Neural Shape Parser for Constructive Solid Geometry",
+			"ArXiv":"1712.08290",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.08290v2.pdf"
+		},
+		{
+			"Name":"Seeing Small Faces from Robust Anchor's Perspective",
+			"ArXiv":"1802.09058",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.09058v1.pdf"
+		},
+		{
+			"Name":"Adversarial Labeling for Learning without Labels",
+			"ArXiv":"1805.08877",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.08877v1.pdf"
+		},
+		{
+			"Name":"Kunchenko's Polynomials for Template Matching",
+			"ArXiv":"1107.2085",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1107.2085v1.pdf"
+		},
+		{
+			"Name":"Multi-class Semantic Segmentation of Skin Lesions via Fully Convolutional Networks",
+			"ArXiv":"1711.10449",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.10449v1.pdf"
+		},
+		{
+			"Name":"Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning",
+			"ArXiv":"1803.05268",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05268v1.pdf"
+		},
+		{
+			"Name":"Sparse Representation Classification Beyond L1 Minimization and the Subspace Assumption",
+			"ArXiv":"1502.01368",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1502.01368v3.pdf"
+		},
+		{
+			"Name":"Appearance Descriptors for Person Re-identification: a Comprehensive Review",
+			"ArXiv":"1307.5748",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1307.5748v1.pdf"
+		},
+		{
+			"Name":"N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning",
+			"ArXiv":"1709.06030",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.06030v2.pdf"
+		},
+		{
+			"Name":"Stochastic Variational Inference with Gradient Linearization",
+			"ArXiv":"1803.10586",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10586v1.pdf"
+		},
+		{
+			"Name":"Visual Feature Attribution using Wasserstein GANs",
+			"ArXiv":"1711.08998",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08998v2.pdf"
+		},
+		{
+			"Name":"Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis",
+			"ArXiv":"1801.05091",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.05091v1.pdf"
+		},
+		{
+			"Name":"Captioning Images with Diverse Objects",
+			"ArXiv":"1606.07770",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1606.07770v3.pdf"
+		},
+		{
+			"Name":"Density-aware Single Image De-raining using a Multi-stream Dense Network",
+			"ArXiv":"1802.07412",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07412v1.pdf"
+		},
+		{
+			"Name":"Vehicle Pose and Shape Estimation through Multiple Monocular Vision",
+			"ArXiv":"1802.03515",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.03515v3.pdf"
+		},
+		{
+			"Name":"Indoor Semantic Segmentation using depth information",
+			"ArXiv":"1301.3572",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1301.3572v2.pdf"
+		},
+		{
+			"Name":"Deep Mutual Learning",
+			"ArXiv":"1706.00384",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.00384v1.pdf"
+		},
+		{
+			"Name":"Five-point Fundamental Matrix Estimation for Uncalibrated Cameras",
+			"ArXiv":"1803.00260",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.00260v1.pdf"
+		},
+		{
+			"Name":"Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation",
+			"ArXiv":"1805.04574",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.04574v2.pdf"
+		},
+		{
+			"Name":"Photometric Stereo in Participating Media Considering Shape-Dependent Forward Scatter",
+			"ArXiv":"1804.02836",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02836v2.pdf"
+		},
+		{
+			"Name":"Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams",
+			"ArXiv":"1711.09528",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09528v1.pdf"
+		},
+		{
+			"Name":"Anticipating Traffic Accidents with Adaptive Loss and Large-scale Incident DB",
+			"ArXiv":"1804.02675",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.02675v1.pdf"
+		},
+		{
+			"Name":"Learning Probability Measures with respect to Optimal Transport Metrics",
+			"ArXiv":"1209.1077",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1209.1077v1.pdf"
+		},
+		{
+			"Name":"Neural Kinematic Networks for Unsupervised Motion Retargetting",
+			"ArXiv":"1804.05653",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.05653v1.pdf"
+		},
+		{
+			"Name":"Rethinking the Faster R-CNN Architecture for Temporal Action Localization",
+			"ArXiv":"1804.07667",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.07667v1.pdf"
+		},
+		{
+			"Name":"Learning from Noisy Web Data with Category-level Supervision",
+			"ArXiv":"1803.03857",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03857v3.pdf"
+		},
+		{
+			"Name":"Pose-driven Deep Convolutional Model for Person Re-identification",
+			"ArXiv":"1709.08325",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.08325v1.pdf"
+		},
+		{
+			"Name":"Fast End-to-End Trainable Guided Filter",
+			"ArXiv":"1803.05619",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05619v1.pdf"
+		},
+		{
+			"Name":"Excitation Backprop for RNNs",
+			"ArXiv":"1711.06778",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06778v3.pdf"
+		},
+		{
+			"Name":"Improvements to context based self-supervised learning",
+			"ArXiv":"1711.06379",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06379v3.pdf"
+		},
+		{
+			"Name":"Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction",
+			"ArXiv":"1801.03910",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.03910v2.pdf"
+		},
+		{
+			"Name":"Normalized Cut Loss for Weakly-supervised CNN Segmentation",
+			"ArXiv":"1804.01346",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01346v1.pdf"
+		},
+		{
+			"Name":"Exploration of object recognition from 3D point cloud",
+			"ArXiv":"1707.01243",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.01243v1.pdf"
+		},
+		{
+			"Name":"CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation",
+			"ArXiv":"1804.01967",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01967v1.pdf"
+		},
+		{
+			"Name":"Action Sets: Weakly Supervised Action Segmentation without Ordering Constraints",
+			"ArXiv":"1706.00699",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1706.00699v2.pdf"
+		},
+		{
+			"Name":"Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation",
+			"ArXiv":"1803.10464",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10464v2.pdf"
+		},
+		{
+			"Name":"Deep Semantic Face Deblurring",
+			"ArXiv":"1803.03345",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.03345v2.pdf"
+		},
+		{
+			"Name":"SGAN: An Alternative Training of Generative Adversarial Networks",
+			"ArXiv":"1712.02330",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02330v1.pdf"
+		},
+		{
+			"Name":"Continuous Relaxation of MAP Inference: A Nonconvex Perspective",
+			"ArXiv":"1802.07796",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.07796v2.pdf"
+		},
+		{
+			"Name":"Pruning Filters for Efficient ConvNets",
+			"ArXiv":"1608.08710",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.08710v3.pdf"
+		},
+		{
+			"Name":"Towards dense object tracking in a 2D honeybee hive",
+			"ArXiv":"1712.08324",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.08324v1.pdf"
+		},
+		{
+			"Name":"Tags2Parts: Discovering Semantic Regions from Shape Tags",
+			"ArXiv":"1708.06673",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1708.06673v3.pdf"
+		},
+		{
+			"Name":"Pyramid Stereo Matching Network",
+			"ArXiv":"1803.08669",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08669v1.pdf"
+		},
+		{
+			"Name":"Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains",
+			"ArXiv":"1803.06641",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06641v1.pdf"
+		},
+		{
+			"Name":"Cascaded Pyramid Network for Multi-Person Pose Estimation",
+			"ArXiv":"1711.07319",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07319v2.pdf"
+		},
+		{
+			"Name":"Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective",
+			"ArXiv":"1803.10910",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.10910v1.pdf"
+		},
+		{
+			"Name":"Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals",
+			"ArXiv":"1712.03917",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03917v2.pdf"
+		},
+		{
+			"Name":"Deep Roto-Translation Scattering for Object Classification",
+			"ArXiv":"1412.8659",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1412.8659v2.pdf"
+		},
+		{
+			"Name":"Guided Proofreading of Automatic Segmentations for Connectomics",
+			"ArXiv":"1704.00848",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1704.00848v1.pdf"
+		},
+		{
+			"Name":"Unsupervised Learning of Visual Representations using Videos",
+			"ArXiv":"1505.00687",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.00687v2.pdf"
+		},
+		{
+			"Name":"Importance Weighted Adversarial Nets for Partial Domain Adaptation",
+			"ArXiv":"1803.09210",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.09210v2.pdf"
+		},
+		{
+			"Name":"Universal Style Transfer via Feature Transforms",
+			"ArXiv":"1705.08086",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.08086v2.pdf"
+		},
+		{
+			"Name":"Fully Convolutional Adaptation Networks for Semantic Segmentation",
+			"ArXiv":"1804.08286",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.08286v1.pdf"
+		},
+		{
+			"Name":"Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning",
+			"ArXiv":"1804.04450",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.04450v2.pdf"
+		},
+		{
+			"Name":"Spatially-Adaptive Filter Units for Deep Neural Networks",
+			"ArXiv":"1711.11473",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.11473v2.pdf"
+		},
+		{
+			"Name":"Harmonious Attention Network for Person Re-Identification",
+			"ArXiv":"1802.08122",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.08122v1.pdf"
+		},
+		{
+			"Name":"Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images",
+			"ArXiv":"1712.03904",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.03904v2.pdf"
+		},
+		{
+			"Name":"Curve Reconstruction via the Global Statistics of Natural Curves",
+			"ArXiv":"1711.03172",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.03172v2.pdf"
+		},
+		{
+			"Name":"Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking",
+			"ArXiv":"1803.08679",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.08679v1.pdf"
+		},
+		{
+			"Name":"Nonlocal Low-Rank Tensor Factor Analysis for Image Restoration",
+			"ArXiv":"1803.06795",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06795v1.pdf"
+		},
+		{
+			"Name":"Self-supervised Learning of Geometrically Stable Features Through Probabilistic Introspection",
+			"ArXiv":"1804.01552",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.01552v1.pdf"
+		},
+		{
+			"Name":"Recurrent Saliency Transformation Network: Incorporating Multi-Stage Visual Cues for Small Organ Segmentation",
+			"ArXiv":"1709.04518",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.04518v4.pdf"
+		},
+		{
+			"Name":"Variational Autoencoders for Deforming 3D Mesh Models",
+			"ArXiv":"1709.04307",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1709.04307v3.pdf"
+		},
+		{
+			"Name":"A Framework for Policy Crowdsourcing",
+			"ArXiv":"1702.04213",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1702.04213v1.pdf"
+		},
+		{
+			"Name":"Learning to Act Properly: Predicting and Explaining Affordances from Images",
+			"ArXiv":"1712.07576",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.07576v1.pdf"
+		},
+		{
+			"Name":"Recurrent Scene Parsing with Perspective Understanding in the Loop",
+			"ArXiv":"1705.07238",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.07238v2.pdf"
+		},
+		{
+			"Name":"Neuron-level Selective Context Aggregation for Scene Segmentation",
+			"ArXiv":"1711.08278",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08278v1.pdf"
+		},
+		{
+			"Name":"Convolutional Image Captioning",
+			"ArXiv":"1711.09151",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09151v1.pdf"
+		},
+		{
+			"Name":"Learning 3D Shape Completion under Weak Supervision",
+			"ArXiv":"1805.07290",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1805.07290v1.pdf"
+		},
+		{
+			"Name":"Multimodal Generative Models for Scalable Weakly-Supervised Learning",
+			"ArXiv":"1802.05335",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.05335v2.pdf"
+		},
+		{
+			"Name":"Adversarial Autoencoders",
+			"ArXiv":"1511.05644",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1511.05644v2.pdf"
+		},
+		{
+			"Name":"MegaDepth: Learning Single-View Depth Prediction from Internet Photos",
+			"ArXiv":"1804.00607",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1804.00607v1.pdf"
+		},
+		{
+			"Name":"MAttNet: Modular Attention Network for Referring Expression Comprehension",
+			"ArXiv":"1801.08186",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.08186v3.pdf"
+		},
+		{
+			"Name":"Deep Learning Markov Random Field for Semantic Segmentation",
+			"ArXiv":"1606.07230",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1606.07230v2.pdf"
+		},
+		{
+			"Name":"Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification",
+			"ArXiv":"1711.09550",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.09550v1.pdf"
+		},
+		{
+			"Name":"The iNaturalist Species Classification and Detection Dataset",
+			"ArXiv":"1707.06642",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1707.06642v2.pdf"
+		},
+		{
+			"Name":"Large Scale SfM with the Distributed Camera Model",
+			"ArXiv":"1607.03949",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1607.03949v2.pdf"
+		},
+		{
+			"Name":"A Deep Relevance Matching Model for Ad-hoc Retrieval",
+			"ArXiv":"1711.08611",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.08611v1.pdf"
+		},
+		{
+			"Name":"Modelling Temporal Information Using Discrete Fourier Transform for Video Classification",
+			"ArXiv":"1603.06182",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1603.06182v5.pdf"
+		},
+		{
+			"Name":"Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects",
+			"ArXiv":"1803.05082",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.05082v2.pdf"
+		},
+		{
+			"Name":"PU-Net: Point Cloud Upsampling Network",
+			"ArXiv":"1801.06761",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1801.06761v2.pdf"
+		},
+		{
+			"Name":"Efficient Large Scale Video Classification",
+			"ArXiv":"1505.06250",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1505.06250v1.pdf"
+		},
+		{
+			"Name":"Improving Object Localization with Fitness NMS and Bounded IoU Loss",
+			"ArXiv":"1711.00164",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.00164v3.pdf"
+		},
+		{
+			"Name":"DensePose: Dense Human Pose Estimation In The Wild",
+			"ArXiv":"1802.00434",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.00434v1.pdf"
+		},
+		{
+			"Name":"Discrete-Continuous ADMM for Transductive Inference in Higher-Order MRFs",
+			"ArXiv":"1705.05020",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.05020v5.pdf"
+		},
+		{
+			"Name":"Burst Denoising with Kernel Prediction Networks",
+			"ArXiv":"1712.02327",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1712.02327v2.pdf"
+		},
+		{
+			"Name":"Learning Residual Images for Face Attribute Manipulation",
+			"ArXiv":"1612.05363",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1612.05363v2.pdf"
+		},
+		{
+			"Name":"Triplet-Center Loss for Multi-View 3D Object Retrieval",
+			"ArXiv":"1803.06189",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1803.06189v1.pdf"
+		},
+		{
+			"Name":"Disentangling Factors of Variation by Mixing Them",
+			"ArXiv":"1711.07410",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.07410v2.pdf"
+		},
+		{
+			"Name":"Visual Relationship Detection with Language Priors",
+			"ArXiv":"1608.00187",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1608.00187v1.pdf"
+		},
+		{
+			"Name":"Using Deep Learning for Segmentation and Counting within Microscopy Data",
+			"ArXiv":"1802.10548",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1802.10548v1.pdf"
+		},
+		{
+			"Name":"Checks and Balances: A Low-complexity High-gain Uplink Power Controller for CoMP",
+			"ArXiv":"1610.08491",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1610.08491v1.pdf"
+		},
+		{
+			"Name":"Blended Cured Quasi-Newton for Geometric Optimization",
+			"ArXiv":"1705.00039",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1705.00039v2.pdf"
+		},
+		{
+			"Name":"Mobile Video Object Detection with Temporally-Aware Feature Maps",
+			"ArXiv":"1711.06368",
+			"PDF":"https:\/\/arxiv.org\/pdf\/1711.06368v2.pdf"
+		}
+	]
+}
