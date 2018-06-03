@@ -1,0 +1,6 @@
+# ide config
+*.iml
+.idea/*
+
+# crawler notebook
+*.nb
