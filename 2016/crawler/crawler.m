@@ -15,7 +15,7 @@
 Clear["Global`*"];
 $now=Now;$here=NotebookDirectory[];
 $win=StringReplace[{"/","\\",":","*","?",",","<",">","|","\""}->"_"];
-$url="https://www.cv-foundation.org/openaccess/";
+$url="http://openaccess.thecvf.com/";
 
 
 (* ::Subsection:: *)
@@ -23,12 +23,20 @@ $url="https://www.cv-foundation.org/openaccess/";
 
 
 XmlFilter[{a_,b_,c_}]:=Block[
-	{bib=Flatten@Cases[c,XMLElement["div",{"class"->"bibref"},t___]:>t,Infinity,1]},
-	<|
-		"Name"->$win[a[[-1,-1,-1,-1]]],
-		"PDF"->StringJoin[$url,"href"/.c[[-1,2,-2]]],
-		"Bib"->StringJoin[bib/.XMLElement["br",x___]->Nothing]
-	|>
+	{
+		name=FirstCase[a,XMLElement["a",{__},{dl_}]:>dl,Missing,Infinity],
+		pdf=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"pdf"}]:>h,Missing,Infinity],
+		bib=FirstCase[c,XMLElement["div",{"class"->"bibref"},t___]:>t,Missing,Infinity],
+		arxiv=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"arXiv"}]:>h,Missing,Infinity],
+		video=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"video"}]:>h,Missing,Infinity]
+	},
+	Association@@{
+		"Name"->$win[name],
+		"PDF"->StringJoin[$url,pdf],
+		"Bib"->StringJoin[bib/.XMLElement["br",x___]->Nothing],
+		If[arxiv===Missing,Nothing,"ArXiv"->arxiv],
+		If[video===Missing,Nothing,"Video"->video]
+	}
 ];
 
 
@@ -36,9 +44,9 @@ XmlFilter[{a_,b_,c_}]:=Block[
 (*Main*)
 
 
-get=Import["https://www.cv-foundation.org/openaccess/CVPR2016.py",{"HTML","XMLObject"}];
+get=Import["http://openaccess.thecvf.com/CVPR2016.py",{"HTML","XMLObject"}];
 ct=Flatten@Cases[get,XMLElement["div",{"id"->"content"},t___]:>t,Infinity];
-data=XmlFilter/@Partition[ct[[2,3]],3];
+data=XmlFilter/@Partition[Flatten@Cases[ct,XMLElement["dl",{},dl_]:>dl],3];
 
 
 (* ::Subsection:: *)
