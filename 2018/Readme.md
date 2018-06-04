@@ -1,5 +1,5 @@
 # CVPR 2018
-![cvpr2018_logo.jpg](https://raw.githubusercontent.com/GalAster/CVPR_List/master/2018/cvpr2018_logo.jpg)
+![cvpr2018_logo.jpg](https://raw.githubusercontent.com/GalAster/CVPR_List/master/2018/cvpr_logo.jpg)
 
 ### Bash
 ```sh
