@@ -13,7 +13,8 @@
 
 
 Clear["Global`*"];
-$now=Now;$here=NotebookDirectory[];
+$now=Now;
+$here=DirectoryName[$InputFileName /. "" :> NotebookFileName[]];
 $win=StringReplace[{"/","\\",":","*","?",",","<",">","|","\""}->"_"];
 $url="http://openaccess.thecvf.com/";
 
