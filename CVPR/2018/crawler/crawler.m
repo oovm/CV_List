@@ -12,28 +12,32 @@
 (*Clear*)
 
 
-Clear["Global`*"]
-$now=Now;$here=NotebookDirectory[];
+Clear["Global`*"];
+$now=Now;
+$here=DirectoryName[$InputFileName /. "" :> NotebookFileName[]];
 $win=StringReplace[{"/","\\",":","*","?",",","<",">","|","\""}->"_"];
-arXiv=ServiceConnect["ArXiv"]
+$url="http://openaccess.thecvf.com/";
 
 
 (* ::Subsection:: *)
 (*Functions*)
 
 
-ArXivSearch[q_]:=Block[
-	{articles=arXiv["Search",{"Query"->q}]//Normal,post},
-	post=First@TakeSmallestBy[articles,EditDistance[#["Title"],q]&,1];
-	<|
-		"Name"->$win[post["Title"]],
-		"ArXiv"->First@StringSplit[post["ID"],"v"],
-		"PDF"->StringJoin["https://arxiv.org/pdf/",post["ID"],".pdf"]
-	|>
-];
-SearchList[list_]:=With[
-	{name=FileNameJoin[{$here,"temp",ToString[Hash@list]<>".json"}]},
-	If[FileExistsQ@name,Return[],Export[name,ArXivSearch/@list]]
+XmlFilter[{a_,b_,c_}]:=Block[
+	{
+		name=FirstCase[a,XMLElement["a",{__},{dl_}]:>dl,Missing,Infinity],
+		pdf=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"pdf"}]:>h,Missing,Infinity],
+		bib=FirstCase[c,XMLElement["div",{"class"->"bibref"},t___]:>t,Missing,Infinity],
+		arxiv=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"arXiv"}]:>h,Missing,Infinity],
+		video=FirstCase[c,XMLElement["a",{"shape"->"rect","href"->h_},{"video"}]:>h,Missing,Infinity]
+	},
+	Association@@{
+		"Name"->$win[name],
+		"PDF"->StringJoin[$url,pdf],
+		"Bib"->StringJoin[bib/.XMLElement["br",x___]->Nothing],
+		If[arxiv===Missing,Nothing,"ArXiv"->arxiv],
+		If[video===Missing,Nothing,"Video"->video]
+	}
 ];
 
 
@@ -41,14 +45,9 @@ SearchList[list_]:=With[
 (*Main*)
 
 
-get=Import[
-	"https://raw.githubusercontent.com/amusi/daily-paper-computer-vision/master/2018/cvpr2018-paper-list.csv",
-	{"CSV","Dataset"},"HeaderLines"->1
-]//Normal;
-Quiet[CreateDirectory@FileNameJoin[{$here,"temp"}]];
-Quiet[SearchList/@Partition[("Title"/.get),UpTo[1]]];
-files=FileNames["*",FileNameJoin[{$here,"temp"}]];
-data=Flatten[Import[#,"RawJSON"]&/@files//Quiet]//DeleteDuplicates
+get=Import["http://openaccess.thecvf.com/CVPR2018.py",{"HTML","XMLObject"}];
+ct=Flatten@Cases[get,XMLElement["div",{"id"->"content"},t___]:>t,Infinity];
+data=XmlFilter/@Partition[Flatten@Cases[ct,XMLElement["dl",{},dl_]:>dl],3];
 
 
 (* ::Subsection:: *)
@@ -60,13 +59,13 @@ Export[
 	<|
 		"MetaInformation"-><|
 			"Now"->DateString@$now,
-			"Time"->QuantityMagnitude@UnitConvert[Now-$now,"SI"],
+			"Time"->First[Now-$now],
 			"Count"->Length[data]
 		|>,
-	"Data"->DeleteCases[data,$Failed]
+	"Data"->data
 	|>
 ]
 Export[
 	FileNameJoin[{ParentDirectory[$here],"download.txt"}],
-	DeleteCases[#["PDF"]&/@data,$Failed[x___]]
+	"PDF"/.data
 ]
